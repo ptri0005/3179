@@ -1,0 +1,82 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Storms Overtime",
+    "data": {
+      "url": "data/storm_binned.csv"
+    },
+    "params": [
+      {
+          "name": "Year_Before",
+          "value": 2021,
+          "bind": {"input": "range", "min": 1900, "max": 2021}
+        },
+        {
+          "name": "Year_After",
+          "value": 1900,
+          "bind": {"input": "range", "min": 1900, "max": 2021}
+        }],
+        
+    "width":"container",
+      
+
+    "transform": [ {"filter": "datum.Year > Year_After"},
+    {"filter": "datum.Year <= Year_Before"},
+        {"bin": true, "field": "Year", "as": "Binned Year"}
+        ],
+
+    "layer":[{
+    "mark": "bar",
+    "encoding": {
+  
+      
+      "x": {
+        "field": "Binned Year",
+        "type": "Quantitative",
+        "title": "Binned Year",
+        "Bin" : {"Binned": true, "step": 10}
+        
+      },
+      "y": {
+          "aggregate": "mean",
+        "field": "Dis Mag Value",
+        "type": "quantitative",
+        "title": "Mean Speed (in Kph)"
+      },
+      "color": {
+        "aggregate": "mean",
+        "type": "quantitative",
+        "field": "Dis Mag Value",
+        "scale": {"scheme": "teals"}
+        },
+    "tooltip": [
+        {"aggregate": "mean","field": "Dis Mag Value", "type": "quantitative", "title": "Mean Speed (in Kph)"}
+        ]
+      
+    }},
+    {"mark": "line",
+    "encoding": {
+            "x": {
+        "field": "Year",
+        "type": "Quantitative",
+        "title": "Binned Year"
+        
+      },
+      "y": {
+          "aggregate": "count",
+        "field": "Dis No",
+        "type": "nominal"
+      },
+       "color": {
+        "aggregate": "count",
+        "type": "quantitative",
+        "field": "Dis Mag Value",
+        "scale": {"scheme": "teals"}
+        }
+    }
+    }
+    ],
+    "resolve": {"scale":{"y": "independent"}}
+
+    
+    
+  } 

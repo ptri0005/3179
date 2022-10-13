@@ -1,0 +1,1542 @@
+Dis No,Year,Disaster Group,Disaster Type,Country,Continent,Dis Mag Value,Dis Mag Scale,Total Deaths
+1960-0013-CHL,1960,Natural,Earthquake,Chile,Americas,10,Richter,6000
+1960-0018-USA,1960,Natural,Earthquake,United States of America,Americas,10,Richter,61
+1906-0002-COL,1906,Natural,Earthquake,Colombia,Americas,9,Richter,400
+1920-0007-CHN,1920,Natural,Earthquake,China,Asia,9,Richter,180000
+1922-0001-CHL,1922,Natural,Earthquake,Chile,Americas,9,Richter,1000
+1950-0008-IND,1950,Natural,Earthquake,India,Asia,9,Richter,1500
+1946-0010-USA,1946,Natural,Earthquake,United States of America,Americas,9,Richter,165
+1964-0021-USA,1964,Natural,Earthquake,United States of America,Americas,9,Richter,131
+2004-0659-IDN,2004,Natural,Earthquake,Indonesia,Asia,9,Richter,165708
+2004-0659-KEN,2004,Natural,Earthquake,Kenya,Africa,9,Richter,1
+2004-0659-BGD,2004,Natural,Earthquake,Bangladesh,Asia,9,Richter,2
+2004-0659-IND,2004,Natural,Earthquake,India,Asia,9,Richter,16389
+2004-0659-LKA,2004,Natural,Earthquake,Sri Lanka,Asia,9,Richter,35399
+2005-0160-IDN,2005,Natural,Earthquake,Indonesia,Asia,9,Richter,915
+2004-0659-MDV,2004,Natural,Earthquake,Maldives,Asia,9,Richter,102
+2004-0659-MYS,2004,Natural,Earthquake,Malaysia,Asia,9,Richter,80
+2004-0659-THA,2004,Natural,Earthquake,Thailand,Asia,9,Richter,8345
+2004-0659-MMR,2004,Natural,Earthquake,Myanmar,Asia,9,Richter,71
+2004-0659-SOM,2004,Natural,Earthquake,Somalia,Africa,9,Richter,298
+2004-0659-SYC,2004,Natural,Earthquake,Seychelles,Africa,9,Richter,3
+2004-0659-TZA,2004,Natural,Earthquake,Tanzania,Africa,9,Richter,10
+2010-0091-CHL,2010,Natural,Earthquake,Chile,Americas,9,Richter,562
+2011-0082-IDN,2011,Natural,Earthquake,Indonesia,Asia,9,Richter,1
+2011-0082-JPN,2011,Natural,Earthquake,Japan,Asia,9,Richter,19846
+2012-0097-IDN,2012,Natural,Earthquake,Indonesia,Asia,9,Richter,7
+1902-0012-GTM,1902,Natural,Earthquake,Guatemala,Americas,8,Richter,2000
+1905-0003-IND,1905,Natural,Earthquake,India,Asia,8,Richter,20000
+1906-0014-CHL,1906,Natural,Earthquake,Chile,Americas,8,Richter,20000
+1914-0022-IDN,1914,Natural,Earthquake,Indonesia,Asia,8,Richter,20
+1927-0006-CHN,1927,Natural,Earthquake,China,Asia,8,Richter,40912
+1933-0021-CHN,1933,Natural,Earthquake,China,Asia,8,Richter,10000
+1938-0009-IDN,1938,Natural,Earthquake,Indonesia,Asia,8,Richter,
+1939-0001-CHL,1939,Natural,Earthquake,Chile,Americas,8,Richter,30000
+1943-0010-CHL,1943,Natural,Earthquake,Chile,Americas,8,Richter,12
+1946-0013-CHL,1946,Natural,Earthquake,Chile,Americas,8,Richter,2
+1946-0021-DOM,1946,Natural,Earthquake,Dominican Republic,Americas,8,Richter,73
+1949-0015-CHL,1949,Natural,Earthquake,Chile,Americas,8,Richter,6
+1953-0012-CHL,1953,Natural,Earthquake,Chile,Americas,8,Richter,12
+1955-0038-CHN,1955,Natural,Earthquake,China,Asia,8,Richter,39
+1956-0037-GRC,1956,Natural,Earthquake,Greece,Europe,8,Richter,53
+1956-0008-AFG,1956,Natural,Earthquake,Afghanistan,Asia,8,Richter,100
+1965-0093-IDN,1965,Natural,Earthquake,Indonesia,Asia,8,Richter,71
+1966-0090-CHL,1966,Natural,Earthquake,Chile,Americas,8,Richter,4
+1968-0064-IDN,1968,Natural,Earthquake,Indonesia,Asia,8,Richter,200
+1971-0042-CHL,1971,Natural,Earthquake,Chile,Americas,8,Richter,85
+1976-0050-CHN,1976,Natural,Earthquake,China,Asia,8,Richter,242000
+1976-0024-GTM,1976,Natural,Earthquake,Guatemala,Americas,8,Richter,23000
+1977-0106-IDN,1977,Natural,Earthquake,Indonesia,Asia,8,Richter,185
+1901-0004-JPN,1901,Natural,Earthquake,Japan,Asia,8,Richter,18
+1906-0013-USA,1906,Natural,Earthquake,United States of America,Americas,8,Richter,700
+1909-0007-IRN,1909,Natural,Earthquake,Iran,Asia,8,Richter,5000
+1912-0006-TUR,1912,Natural,Earthquake,Turkey,Asia,8,Richter,923
+1915-0002-ITA,1915,Natural,Earthquake,Italy,Europe,8,Richter,29980
+1918-0011-PHL,1918,Natural,Earthquake,Philippines,Asia,8,Richter,100
+1918-0008-PRI,1918,Natural,Earthquake,Puerto Rico,Americas,8,Richter,116
+1923-0006-JPN,1923,Natural,Earthquake,Japan,Asia,8,Richter,143000
+1929-0013-NZL,1929,Natural,Earthquake,New Zealand,Oceania,8,Richter,17
+1930-0006-MMR,1930,Natural,Earthquake,Myanmar,Asia,8,Richter,500
+1931-0011-SLB,1931,Natural,Earthquake,Solomon Islands,Oceania,8,Richter,50
+1933-0001-JPN,1933,Natural,Earthquake,Japan,Asia,8,Richter,3000
+1935-0005-PAK,1935,Natural,Earthquake,Pakistan,Asia,8,Richter,60000
+1939-0010-TUR,1939,Natural,Earthquake,Turkey,Asia,8,Richter,32962
+1940-0009-PER,1940,Natural,Earthquake,Peru,Americas,8,Richter,179
+1943-0014-TUR,1943,Natural,Earthquake,Turkey,Asia,8,Richter,4020
+1944-0026-JPN,1944,Natural,Earthquake,Japan,Asia,8,Richter,1223
+1944-0003-TUR,1944,Natural,Earthquake,Turkey,Asia,8,Richter,3959
+1945-0007-PAK,1945,Natural,Earthquake,Pakistan,Asia,8,Richter,4000
+1946-0015-JPN,1946,Natural,Earthquake,Japan,Asia,8,Richter,2000
+1947-0013-PER,1947,Natural,Earthquake,Peru,Americas,8,Richter,233
+1948-0014-PHL,1948,Natural,Earthquake,Philippines,Asia,8,Richter,72
+1952-0022-JPN,1952,Natural,Earthquake,Japan,Asia,8,Richter,33
+1952-0004-USA,1952,Natural,Earthquake,United States of America,Americas,8,Richter,12
+1957-0009-MEX,1957,Natural,Earthquake,Mexico,Americas,8,Richter,160
+1957-0012-MNG,1957,Natural,Earthquake,Mongolia,Asia,8,Richter,1200
+1960-0007-PER,1960,Natural,Earthquake,Peru,Americas,8,Richter,63
+1966-0082-PER,1966,Natural,Earthquake,Peru,Americas,8,Richter,120
+1970-0032-PER,1970,Natural,Earthquake,Peru,Americas,8,Richter,66794
+1973-0014-MEX,1973,Natural,Earthquake,Mexico,Americas,8,Richter,56
+1974-0050-PER,1974,Natural,Earthquake,Peru,Americas,8,Richter,78
+1975-0043-SLB,1975,Natural,Earthquake,Solomon Islands,Oceania,8,Richter,200
+1976-0054-PHL,1976,Natural,Earthquake,Philippines,Asia,8,Richter,6000
+1976-0021-NZL,1976,Natural,Earthquake,New Zealand,Oceania,8,Richter,
+1977-0048-ROU,1977,Natural,Earthquake,Romania,Europe,8,Richter,1641
+1978-0080-JPN,1978,Natural,Earthquake,Japan,Asia,8,Richter,28
+1979-0113-COL,1979,Natural,Earthquake,Colombia,Americas,8,Richter,579
+1985-0041-CHL,1985,Natural,Earthquake,Chile,Americas,8,Richter,180
+1988-0502-CHN,1988,Natural,Earthquake,China,Asia,8,Richter,939
+1978-0135-MEX,1978,Natural,Earthquake,Mexico,Americas,8,Richter,9
+1979-0086-IDN,1979,Natural,Earthquake,Indonesia,Asia,8,Richter,2
+1979-0032-MEX,1979,Natural,Earthquake,Mexico,Americas,8,Richter,5
+1983-0081-JPN,1983,Natural,Earthquake,Japan,Asia,8,Richter,102
+1985-0109-MEX,1985,Natural,Earthquake,Mexico,Americas,8,Richter,9500
+1986-0123-SLV,1986,Natural,Earthquake,El Salvador,Americas,8,Richter,1100
+1990-0040-PHL,1990,Natural,Earthquake,Philippines,Asia,8,Richter,2412
+1990-0017-IDN,1990,Natural,Earthquake,Indonesia,Asia,8,Richter,5
+1992-0081-KGZ,1992,Natural,Earthquake,Kyrgyzstan,Asia,8,Richter,54
+1992-0163-IDN,1992,Natural,Earthquake,Indonesia,Asia,8,Richter,2500
+1993-0044-JPN,1993,Natural,Earthquake,Japan,Asia,8,Richter,239
+1993-0049-GUM,1993,Natural,Earthquake,Guam,Oceania,8,Richter,
+1993-0097-JPN,1993,Natural,Earthquake,Japan,Asia,8,Richter,2
+1994-0058-BOL,1994,Natural,Earthquake,Bolivia,Americas,8,Richter,5
+1995-0171-CHL,1995,Natural,Earthquake,Chile,Americas,8,Richter,3
+1994-0343-JPN,1994,Natural,Earthquake,Japan,Asia,8,Richter,5
+1994-0316-JPN,1994,Natural,Earthquake,Japan,Asia,8,Richter,2
+1995-0253-MEX,1995,Natural,Earthquake,Mexico,Americas,8,Richter,58
+1996-0061-IDN,1996,Natural,Earthquake,Indonesia,Asia,8,Richter,166
+1994-0342-RUS,1994,Natural,Earthquake,Russia,Europe,8,Richter,11
+1995-0097-RUS,1995,Natural,Earthquake,Russia,Europe,8,Richter,1989
+1997-0539-VUT,1997,Natural,Earthquake,Vanuatu,Oceania,8,Richter,
+1998-0403-IDN,1998,Natural,Earthquake,Indonesia,Asia,8,Richter,33
+1999-0360-MEX,1999,Natural,Earthquake,Mexico,Americas,8,Richter,31
+2000-0230-IDN,2000,Natural,Earthquake,Indonesia,Asia,8,Richter,45
+2001-0023-GTM,2001,Natural,Earthquake,Guatemala,Americas,8,Richter,6
+2001-0033-IND,2001,Natural,Earthquake,India,Asia,8,Richter,20005
+1999-0524-VUT,1999,Natural,Earthquake,Vanuatu,Oceania,8,Richter,12
+1999-0321-TWN,1999,Natural,Earthquake,Taiwan,Asia,8,Richter,2264
+1999-0268-TUR,1999,Natural,Earthquake,Turkey,Asia,8,Richter,17127
+2000-0749-PNG,2000,Natural,Earthquake,Papua New Guinea,Oceania,8,Richter,2
+2001-0013-SLV,2001,Natural,Earthquake,El Salvador,Americas,8,Richter,844
+2001-0033-PAK,2001,Natural,Earthquake,Pakistan,Asia,8,Richter,12
+2002-0643-IDN,2002,Natural,Earthquake,Indonesia,Asia,8,Richter,8
+2003-0039-MEX,2003,Natural,Earthquake,Mexico,Americas,8,Richter,29
+2001-0294-PER,2001,Natural,Earthquake,Peru,Americas,8,Richter,145
+2002-0129-PHL,2002,Natural,Earthquake,Philippines,Asia,8,Richter,15
+2002-0577-PNG,2002,Natural,Earthquake,Papua New Guinea,Oceania,8,Richter,4
+2004-0562-IDN,2004,Natural,Earthquake,Indonesia,Asia,8,Richter,33
+2005-0575-AFG,2005,Natural,Earthquake,Afghanistan,Asia,8,Richter,1
+2005-0575-IND,2005,Natural,Earthquake,India,Asia,8,Richter,1309
+2005-0321-CHL,2005,Natural,Earthquake,Chile,Americas,8,Richter,11
+2006-0372-IDN,2006,Natural,Earthquake,Indonesia,Asia,8,Richter,802
+2005-0575-PAK,2005,Natural,Earthquake,Pakistan,Asia,8,Richter,73338
+2005-0321-PER,2005,Natural,Earthquake,Peru,Americas,8,Richter,
+2005-0558-PER,2005,Natural,Earthquake,Peru,Americas,8,Richter,5
+2006-0214-RUS,2006,Natural,Earthquake,Russia,Europe,8,Richter,
+2007-0127-SLB,2007,Natural,Earthquake,Solomon Islands,Oceania,8,Richter,52
+2007-0440-IDN,2007,Natural,Earthquake,Indonesia,Asia,8,Richter,25
+2007-0587-CHL,2007,Natural,Earthquake,Chile,Americas,8,Richter,2
+2008-0192-CHN,2008,Natural,Earthquake,China,Asia,8,Richter,87476
+2009-0001-IDN,2009,Natural,Earthquake,Indonesia,Asia,8,Richter,5
+2007-0362-PER,2007,Natural,Earthquake,Peru,Americas,8,Richter,593
+2009-0420-ASM,2009,Natural,Earthquake,American Samoa,Oceania,8,Richter,34
+2009-0406-BTN,2009,Natural,Earthquake,Bhutan,Asia,8,Richter,11
+2009-0479-IDN,2009,Natural,Earthquake,Indonesia,Asia,8,Richter,2
+2010-0563-IDN,2010,Natural,Earthquake,Indonesia,Asia,8,Richter,530
+2009-0420-TON,2009,Natural,Earthquake,Tonga,Oceania,8,Richter,9
+2009-0420-WSM,2009,Natural,Earthquake,Samoa,Oceania,8,Richter,148
+2012-0343-CRI,2012,Natural,Earthquake,Costa Rica,Americas,8,Richter,2
+2012-0431-PHL,2012,Natural,Earthquake,Philippines,Asia,8,Richter,1
+2013-0029-SLB,2013,Natural,Earthquake,Solomon Islands,Oceania,8,Richter,10
+2013-0099-IRN,2013,Natural,Earthquake,Iran,Asia,8,Richter,
+2013-0099-PAK,2013,Natural,Earthquake,Pakistan,Asia,8,Richter,41
+2013-0381-PAK,2013,Natural,Earthquake,Pakistan,Asia,8,Richter,399
+2014-0094-CHL,2014,Natural,Earthquake,Chile,Americas,8,Richter,6
+2015-0435-CHL,2015,Natural,Earthquake,Chile,Americas,8,Richter,19
+2015-0476-AFG,2015,Natural,Earthquake,Afghanistan,Asia,8,Richter,115
+2015-0144-BGD,2015,Natural,Earthquake,Bangladesh,Asia,8,Richter,4
+2015-0144-CHN,2015,Natural,Earthquake,China,Asia,8,Richter,29
+2016-0117-ECU,2016,Natural,Earthquake,Ecuador,Americas,8,Richter,672
+2015-0144-NPL,2015,Natural,Earthquake,Nepal,Asia,8,Richter,8831
+2015-0144-IND,2015,Natural,Earthquake,India,Asia,8,Richter,78
+2015-0476-IND,2015,Natural,Earthquake,India,Asia,8,Richter,
+2015-0476-PAK,2015,Natural,Earthquake,Pakistan,Asia,8,Richter,280
+1902-0014-CHN,1902,Natural,Earthquake,China,Asia,8,Richter,2500
+1906-0029-CHN,1906,Natural,Earthquake,China,Asia,8,Richter,280
+2019-0243-ECU,2019,Natural,Earthquake,Ecuador,Americas,8,Richter,
+1905-0009-JPN,1905,Natural,Earthquake,Japan,Asia,8,Richter,11
+2016-0395-NZL,2016,Natural,Earthquake,New Zealand,Oceania,8,Richter,2
+2017-0382-MEX,2017,Natural,Earthquake,Mexico,Americas,8,Richter,98
+2017-0382-GTM,2017,Natural,Earthquake,Guatemala,Americas,8,Richter,
+2018-0352-IDN,2018,Natural,Earthquake,Indonesia,Asia,8,Richter,4140
+2018-0055-PNG,2018,Natural,Earthquake,Papua New Guinea,Oceania,8,Richter,145
+2019-0243-PER,2019,Natural,Earthquake,Peru,Americas,8,Richter,2
+2019-0271-PNG,2019,Natural,Earthquake,Papua New Guinea,Oceania,8,Richter,
+1931-0020-CHN,1931,Natural,Earthquake,China,Asia,8,Richter,10000
+1958-0047-COL,1958,Natural,Earthquake,Colombia,Americas,8,Richter,111
+2016-0483-SLB,2016,Natural,Earthquake,Solomon Islands,Oceania,8,Richter,
+2019-0475-ECU,2019,Natural,Earthquake,Ecuador,Americas,8,Richter,
+1910-0023-TWN,1910,Natural,Earthquake,Taiwan,Asia,8,Richter,60
+1911-0024-JPN,1911,Natural,Earthquake,Japan,Asia,8,Richter,12
+1911-0020-KAZ,1911,Natural,Earthquake,Kazakhstan,Asia,8,Richter,450
+1911-0023-MEX,1911,Natural,Earthquake,Mexico,Americas,8,Richter,45
+1913-0027-IDN,1913,Natural,Earthquake,Indonesia,Asia,8,Richter,138
+1920-0017-MEX,1920,Natural,Earthquake,Mexico,Americas,8,Richter,648
+1922-0014-TWN,1922,Natural,Earthquake,Taiwan,Asia,8,Richter,5
+1932-0017-MEX,1932,Natural,Earthquake,Mexico,Americas,8,Richter,400
+1936-0028-IDN,1936,Natural,Earthquake,Indonesia,Asia,8,Richter,
+1937-0024-PHL,1937,Natural,Earthquake,Philippines,Asia,8,Richter,1
+1937-0022-MEX,1937,Natural,Earthquake,Mexico,Americas,8,Richter,34
+1942-0039-PER,1942,Natural,Earthquake,Peru,Americas,8,Richter,30
+1947-0028-GRC,1947,Natural,Earthquake,Greece,Europe,8,Richter,3
+1951-0045-TWN,1951,Natural,Earthquake,Taiwan,Asia,8,Richter,17
+1969-0155-PRT,1969,Natural,Earthquake,Portugal,Europe,8,Richter,2
+1969-0155-MAR,1969,Natural,Earthquake,Morocco,Africa,8,Richter,11
+1973-0150-JPN,1973,Natural,Earthquake,Japan,Asia,8,Richter,
+1977-0254-SLB,1977,Natural,Earthquake,Solomon Islands,Oceania,8,Richter,18
+1907-0006-CHN,1907,Natural,Earthquake,China,Asia,7,Richter,12000
+1917-0014-CHN,1917,Natural,Earthquake,China,Asia,7,Richter,1800
+1917-0003-IDN,1917,Natural,Earthquake,Indonesia,Asia,7,Richter,15000
+1918-0020-CHN,1918,Natural,Earthquake,China,Asia,7,Richter,10000
+1923-0019-CHN,1923,Natural,Earthquake,China,Asia,7,Richter,5000
+1924-0005-ECU,1924,Natural,Earthquake,Ecuador,Americas,7,Richter,40
+1925-0002-CHN,1925,Natural,Earthquake,China,Asia,7,Richter,5000
+1928-0024-CAN,1928,Natural,Earthquake,Canada,Americas,7,Richter,27
+1932-0009-IDN,1932,Natural,Earthquake,Indonesia,Asia,7,Richter,6
+1936-0015-IDN,1936,Natural,Earthquake,Indonesia,Asia,7,Richter,9
+1943-0024-IDN,1943,Natural,Earthquake,Indonesia,Asia,7,Richter,213
+1944-0002-ARG,1944,Natural,Earthquake,Argentina,Americas,7,Richter,10000
+1949-0010-ECU,1949,Natural,Earthquake,Ecuador,Americas,7,Richter,6000
+1949-0005-CHL,1949,Natural,Earthquake,Chile,Americas,7,Richter,35
+1953-0001-GRC,1953,Natural,Earthquake,Greece,Europe,7,Richter,476
+1953-0021-CHL,1953,Natural,Earthquake,Chile,Americas,7,Richter,3
+1954-0017-DZA,1954,Natural,Earthquake,Algeria,Africa,7,Richter,1250
+1954-0044-GRC,1954,Natural,Earthquake,Greece,Europe,7,Richter,31
+1958-0024-IDN,1958,Natural,Earthquake,Indonesia,Asia,7,Richter,8
+1961-0016-ETH,1961,Natural,Earthquake,Ethiopia,Africa,7,Richter,30
+1962-0030-COL,1962,Natural,Earthquake,Colombia,Americas,7,Richter,47
+1965-0016-CHL,1965,Natural,Earthquake,Chile,Americas,7,Richter,400
+1967-0075-ALB,1967,Natural,Earthquake,Albania,Europe,7,Richter,11
+1967-0020-COL,1967,Natural,Earthquake,Colombia,Americas,7,Richter,61
+1967-0077-IND,1967,Natural,Earthquake,India,Asia,7,Richter,177
+1968-0032-GRC,1968,Natural,Earthquake,Greece,Europe,7,Richter,19
+1968-0077-AUS,1968,Natural,Earthquake,Australia,Oceania,7,Richter,
+1969-0052-IDN,1969,Natural,Earthquake,Indonesia,Asia,7,Richter,64
+1970-0010-CHN,1970,Natural,Earthquake,China,Asia,7,Richter,10000
+1970-0051-COL,1970,Natural,Earthquake,Colombia,Americas,7,Richter,
+1970-0067-ECU,1970,Natural,Earthquake,Ecuador,Americas,7,Richter,29
+1973-0024-CRI,1973,Natural,Earthquake,Costa Rica,Americas,7,Richter,21
+1974-0025-CHN,1974,Natural,Earthquake,China,Asia,7,Richter,20000
+1975-0017-CHN,1975,Natural,Earthquake,China,Asia,7,Richter,2000
+1975-0014-IND,1975,Natural,Earthquake,India,Asia,7,Richter,47
+1976-0033-ECU,1976,Natural,Earthquake,Ecuador,Americas,7,Richter,10
+1976-0043-IDN,1976,Natural,Earthquake,Indonesia,Asia,7,Richter,420
+1976-0047-IDN,1976,Natural,Earthquake,Indonesia,Asia,7,Richter,573
+1976-0071-IDN,1976,Natural,Earthquake,Indonesia,Asia,7,Richter,133
+1977-0137-ARG,1977,Natural,Earthquake,Argentina,Americas,7,Richter,70
+1905-0007-JPN,1905,Natural,Earthquake,Japan,Asia,7,Richter,41
+1905-0001-ITA,1905,Natural,Earthquake,Italy,Europe,7,Richter,557
+1906-0001-TWN,1906,Natural,Earthquake,Taiwan,Asia,7,Richter,1258
+1907-0004-JAM,1907,Natural,Earthquake,Jamaica,Americas,7,Richter,1200
+1908-0007-ITA,1908,Natural,Earthquake,Italy,Europe,7,Richter,75000
+1913-0008-ROU,1913,Natural,Earthquake,Romania,Europe,7,Richter,
+1914-0025-JPN,1914,Natural,Earthquake,Japan,Asia,7,Richter,94
+1927-0004-JPN,1927,Natural,Earthquake,Japan,Asia,7,Richter,3022
+1929-0012-IRN,1929,Natural,Earthquake,Iran,Asia,7,Richter,3253
+1930-0025-IRN,1930,Natural,Earthquake,Iran,Asia,7,Richter,1360
+1930-0012-JPN,1930,Natural,Earthquake,Japan,Asia,7,Richter,259
+1930-0017-MMR,1930,Natural,Earthquake,Myanmar,Asia,7,Richter,36
+1931-0004-NZL,1931,Natural,Earthquake,New Zealand,Oceania,7,Richter,256
+1935-0006-TWN,1935,Natural,Earthquake,Taiwan,Asia,7,Richter,2746
+1938-0002-TUR,1938,Natural,Earthquake,Turkey,Asia,7,Richter,149
+1940-0001-ROU,1940,Natural,Earthquake,Romania,Europe,7,Richter,980
+1940-0008-USA,1940,Natural,Earthquake,United States of America,Americas,7,Richter,9
+1941-0016-MMR,1941,Natural,Earthquake,Myanmar,Asia,7,Richter,15
+1942-0011-TUR,1942,Natural,Earthquake,Turkey,Asia,7,Richter,3000
+1943-0027-JPN,1943,Natural,Earthquake,Japan,Asia,7,Richter,1400
+1944-0010-TUR,1944,Natural,Earthquake,Turkey,Asia,7,Richter,27
+1945-0015-JPN,1945,Natural,Earthquake,Japan,Asia,7,Richter,2306
+1946-0014-PER,1946,Natural,Earthquake,Peru,Americas,7,Richter,1400
+1946-0023-SUN,1946,Natural,Earthquake,Soviet Union,Europe,7,Richter,400
+1947-0001-IRN,1947,Natural,Earthquake,Iran,Asia,7,Richter,400
+1948-0005-JPN,1948,Natural,Earthquake,Japan,Asia,7,Richter,5131
+1948-0011-SUN,1948,Natural,Earthquake,Soviet Union,Europe,7,Richter,110000
+1949-0008-SUN,1949,Natural,Earthquake,Soviet Union,Europe,7,Richter,3500
+1949-0019-TUR,1949,Natural,Earthquake,Turkey,Asia,7,Richter,320
+1949-0006-USA,1949,Natural,Earthquake,United States of America,Americas,7,Richter,8
+1951-0012-SLV,1951,Natural,Earthquake,El Salvador,Americas,7,Richter,1100
+1951-0015-TUR,1951,Natural,Earthquake,Turkey,Asia,7,Richter,54
+1953-0009-IRN,1953,Natural,Earthquake,Iran,Asia,7,Richter,970
+1953-0022-PER,1953,Natural,Earthquake,Peru,Americas,7,Richter,9
+1953-0010-TUR,1953,Natural,Earthquake,Turkey,Asia,7,Richter,1200
+1954-0031-PHL,1954,Natural,Earthquake,Philippines,Asia,7,Richter,13
+1957-0008-IRN,1957,Natural,Earthquake,Iran,Asia,7,Richter,2500
+1957-0013-IRN,1957,Natural,Earthquake,Iran,Asia,7,Richter,3000
+1957-0016-TUR,1957,Natural,Earthquake,Turkey,Asia,7,Richter,53
+1958-0001-IRN,1958,Natural,Earthquake,Iran,Asia,7,Richter,191
+1958-0006-PER,1958,Natural,Earthquake,Peru,Americas,7,Richter,28
+1959-0010-USA,1959,Natural,Earthquake,United States of America,Americas,7,Richter,28
+1962-0006-IRN,1962,Natural,Earthquake,Iran,Asia,7,Richter,12000
+1964-0036-JPN,1964,Natural,Earthquake,Japan,Asia,7,Richter,25
+1964-0032-MEX,1964,Natural,Earthquake,Mexico,Americas,7,Richter,45
+1964-0059-TUR,1964,Natural,Earthquake,Turkey,Asia,7,Richter,23
+1964-0014-TWN,1964,Natural,Earthquake,Taiwan,Asia,7,Richter,107
+1965-0024-USA,1965,Natural,Earthquake,United States of America,Americas,7,Richter,7
+1966-0062-TUR,1966,Natural,Earthquake,Turkey,Asia,7,Richter,2394
+1967-0047-TUR,1967,Natural,Earthquake,Turkey,Asia,7,Richter,183
+1968-0050-JPN,1968,Natural,Earthquake,Japan,Asia,7,Richter,47
+1968-0071-TUR,1968,Natural,Earthquake,Turkey,Asia,7,Richter,24
+1968-0068-IRN,1968,Natural,Earthquake,Iran,Asia,7,Richter,10000
+1968-0099-NZL,1968,Natural,Earthquake,New Zealand,Oceania,7,Richter,3
+1968-0052-PER,1968,Natural,Earthquake,Peru,Americas,7,Richter,11
+1969-0098-PER,1969,Natural,Earthquake,Peru,Americas,7,Richter,150
+1969-0059-TUR,1969,Natural,Earthquake,Turkey,Asia,7,Richter,53
+1970-0060-PNG,1970,Natural,Earthquake,Papua New Guinea,Oceania,7,Richter,15
+1970-0038-IRN,1970,Natural,Earthquake,Iran,Asia,7,Richter,176
+1970-0068-PER,1970,Natural,Earthquake,Peru,Americas,7,Richter,29
+1970-0019-TUR,1970,Natural,Earthquake,Turkey,Asia,7,Richter,1086
+1971-0034-TUR,1971,Natural,Earthquake,Turkey,Asia,7,Richter,878
+1971-0016-USA,1971,Natural,Earthquake,United States of America,Americas,7,Richter,65
+1972-0027-IRN,1972,Natural,Earthquake,Iran,Asia,7,Richter,5057
+1973-0035-MEX,1973,Natural,Earthquake,Mexico,Americas,7,Richter,500
+1973-0017-PHL,1973,Natural,Earthquake,Philippines,Asia,7,Richter,14
+1974-0026-JPN,1974,Natural,Earthquake,Japan,Asia,7,Richter,30
+1975-0053-TUR,1975,Natural,Earthquake,Turkey,Asia,7,Richter,2385
+1976-0037-ITA,1976,Natural,Earthquake,Italy,Europe,7,Richter,922
+1976-0039-SUN,1976,Natural,Earthquake,Soviet Union,Europe,7,Richter,
+1976-0075-TUR,1976,Natural,Earthquake,Turkey,Asia,7,Richter,3840
+1977-0059-SLB,1977,Natural,Earthquake,Solomon Islands,Oceania,7,Richter,34
+1977-0051-IRN,1977,Natural,Earthquake,Iran,Asia,7,Richter,167
+1977-0050-PHL,1977,Natural,Earthquake,Philippines,Asia,7,Richter,1
+1977-0078-TON,1977,Natural,Earthquake,Tonga,Oceania,7,Richter,1
+1978-0027-JPN,1978,Natural,Earthquake,Japan,Asia,7,Richter,25
+1950-0029-VEN,1950,Natural,Earthquake,Venezuela,Americas,7,Richter,100
+1966-0040-COD,1966,Natural,Earthquake,Congo,Africa,7,Richter,24
+1967-0050-VEN,1967,Natural,Earthquake,Venezuela,Americas,7,Richter,240
+1979-0039-ALB,1979,Natural,Earthquake,Albania,Europe,7,Richter,35
+1979-0106-COL,1979,Natural,Earthquake,Colombia,Americas,7,Richter,60
+1980-0096-DZA,1980,Natural,Earthquake,Algeria,Africa,7,Richter,2633
+1980-0001-AZO,1980,Natural,Earthquake,Azores Islands,Europe,7,Richter,69
+1981-0026-CHN,1981,Natural,Earthquake,China,Asia,7,Richter,150
+1981-0033-GRC,1981,Natural,Earthquake,Greece,Europe,7,Richter,22
+1982-0127-AFG,1982,Natural,Earthquake,Afghanistan,Asia,7,Richter,500
+1983-0092-CRI,1983,Natural,Earthquake,Costa Rica,Americas,7,Richter,2
+1983-0166-AFG,1983,Natural,Earthquake,Afghanistan,Asia,7,Richter,12
+1983-0127-CHL,1983,Natural,Earthquake,Chile,Americas,7,Richter,4
+1983-0065-CRI,1983,Natural,Earthquake,Costa Rica,Americas,7,Richter,10
+1985-0024-ARG,1985,Natural,Earthquake,Argentina,Americas,7,Richter,6
+1985-0101-CHN,1985,Natural,Earthquake,China,Asia,7,Richter,67
+1987-0144-CHL,1987,Natural,Earthquake,Chile,Americas,7,Richter,5
+1987-0070-ECU,1987,Natural,Earthquake,Ecuador,Americas,7,Richter,5000
+1988-0043-GTM,1988,Natural,Earthquake,Guatemala,Americas,7,Richter,5
+1978-0115-IRN,1978,Natural,Earthquake,Iran,Asia,7,Richter,25000
+1979-0114-IDN,1979,Natural,Earthquake,Indonesia,Asia,7,Richter,5
+1979-0018-IRN,1979,Natural,Earthquake,Iran,Asia,7,Richter,199
+1979-0103-IRN,1979,Natural,Earthquake,Iran,Asia,7,Richter,350
+1979-0107-IRN,1979,Natural,Earthquake,Iran,Asia,7,Richter,16
+1979-0025-PER,1979,Natural,Earthquake,Peru,Americas,7,Richter,13
+1980-0103-ITA,1980,Natural,Earthquake,Italy,Europe,7,Richter,4689
+1980-0097-MEX,1980,Natural,Earthquake,Mexico,Americas,7,Richter,65
+1980-0071-NPL,1980,Natural,Earthquake,Nepal,Asia,7,Richter,100
+1981-0025-IDN,1981,Natural,Earthquake,Indonesia,Asia,7,Richter,306
+1981-0056-IRN,1981,Natural,Earthquake,Iran,Asia,7,Richter,2000
+1981-0067-IRN,1981,Natural,Earthquake,Iran,Asia,7,Richter,1200
+1981-0093-MEX,1981,Natural,Earthquake,Mexico,Americas,7,Richter,3
+1982-0036-JPN,1982,Natural,Earthquake,Japan,Asia,7,Richter,110
+1982-0291-MEX,1982,Natural,Earthquake,Mexico,Americas,7,Richter,9
+1983-0109-PHL,1983,Natural,Earthquake,Philippines,Asia,7,Richter,19
+1983-0067-IDN,1983,Natural,Earthquake,Indonesia,Asia,7,Richter,
+1983-0165-PAK,1983,Natural,Earthquake,Pakistan,Asia,7,Richter,24
+1984-0084-JPN,1984,Natural,Earthquake,Japan,Asia,7,Richter,20
+1984-0335-JPN,1984,Natural,Earthquake,Japan,Asia,7,Richter,
+1984-0339-PAK,1984,Natural,Earthquake,Pakistan,Asia,7,Richter,4
+1985-0078-PAK,1985,Natural,Earthquake,Pakistan,Asia,7,Richter,5
+1985-0171-PHL,1985,Natural,Earthquake,Philippines,Asia,7,Richter,2
+1985-0227-PNG,1985,Natural,Earthquake,Papua New Guinea,Oceania,7,Richter,
+1986-0076-PNG,1986,Natural,Earthquake,Papua New Guinea,Oceania,7,Richter,
+1987-0213-IDN,1987,Natural,Earthquake,Indonesia,Asia,7,Richter,125
+1987-0058-PNG,1987,Natural,Earthquake,Papua New Guinea,Oceania,7,Richter,1
+1987-0254-MEX,1987,Natural,Earthquake,Mexico,Americas,7,Richter,2
+1987-0068-NZL,1987,Natural,Earthquake,New Zealand,Oceania,7,Richter,1
+1988-0382-IND,1988,Natural,Earthquake,India,Asia,7,Richter,382
+1988-0383-NPL,1988,Natural,Earthquake,Nepal,Asia,7,Richter,709
+1979-0039-YUG,1979,Natural,Earthquake,Yugoslavia,Europe,7,Richter,121
+1982-0081-SLV,1982,Natural,Earthquake,El Salvador,Americas,7,Richter,20
+1983-0136-TUR,1983,Natural,Earthquake,Turkey,Asia,7,Richter,1346
+1984-0028-SUN,1984,Natural,Earthquake,Soviet Union,Europe,7,Richter,
+1985-0078-SUN,1985,Natural,Earthquake,Soviet Union,Europe,7,Richter,
+1987-0254-USA,1987,Natural,Earthquake,United States of America,Americas,7,Richter,
+1988-0528-SUN,1988,Natural,Earthquake,Soviet Union,Europe,7,Richter,25000
+1990-0020-BGR,1990,Natural,Earthquake,Bulgaria,Europe,7,Richter,1
+1990-0099-CHN,1990,Natural,Earthquake,China,Asia,7,Richter,126
+1990-0191-CRI,1990,Natural,Earthquake,Costa Rica,Americas,7,Richter,
+1991-0043-CHN,1991,Natural,Earthquake,China,Asia,7,Richter,
+1991-0390-COL,1991,Natural,Earthquake,Colombia,Americas,7,Richter,2
+1992-0151-COL,1992,Natural,Earthquake,Colombia,Americas,7,Richter,11
+1992-0256-CHN,1992,Natural,Earthquake,China,Asia,7,Richter,
+1992-0067-CUB,1992,Natural,Earthquake,Cuba,Americas,7,Richter,
+1989-0073-MEX,1989,Natural,Earthquake,Mexico,Americas,7,Richter,3
+1990-0034-IRN,1990,Natural,Earthquake,Iran,Asia,7,Richter,40000
+1990-0009-PHL,1990,Natural,Earthquake,Philippines,Asia,7,Richter,1
+1990-0029-PER,1990,Natural,Earthquake,Peru,Americas,7,Richter,200
+1990-0188-FJI,1990,Natural,Earthquake,Fiji,Oceania,7,Richter,
+1990-0118-IRN,1990,Natural,Earthquake,Iran,Asia,7,Richter,21
+1990-0202-KEN,1990,Natural,Earthquake,Kenya,Africa,7,Richter,
+1990-0165-PAK,1990,Natural,Earthquake,Pakistan,Asia,7,Richter,11
+1990-0028-PHL,1990,Natural,Earthquake,Philippines,Asia,7,Richter,4
+1990-0020-ROU,1990,Natural,Earthquake,Romania,Europe,7,Richter,9
+1991-0114-PAN,1991,Natural,Earthquake,Panama,Americas,7,Richter,30
+1991-0124-IDN,1991,Natural,Earthquake,Indonesia,Asia,7,Richter,
+1991-0165-IDN,1991,Natural,Earthquake,Indonesia,Asia,7,Richter,28
+1991-0001-MMR,1991,Natural,Earthquake,Myanmar,Asia,7,Richter,
+1991-0066-PER,1991,Natural,Earthquake,Peru,Americas,7,Richter,53
+1992-0481-GEO,1992,Natural,Earthquake,Georgia,Asia,7,Richter,1
+1992-0079-NIC,1992,Natural,Earthquake,Nicaragua,Americas,7,Richter,179
+1992-0082-KGZ,1992,Natural,Earthquake,Kyrgyzstan,Asia,7,Richter,4
+1993-0076-PNG,1993,Natural,Earthquake,Papua New Guinea,Oceania,7,Richter,53
+1993-0086-MEX,1993,Natural,Earthquake,Mexico,Americas,7,Richter,
+1994-0007-IDN,1994,Natural,Earthquake,Indonesia,Asia,7,Richter,207
+1994-0006-IDN,1994,Natural,Earthquake,Indonesia,Asia,7,Richter,7
+1988-0675-SLB,1988,Natural,Earthquake,Solomon Islands,Oceania,7,Richter,1
+1989-0133-USA,1989,Natural,Earthquake,United States of America,Americas,7,Richter,62
+1990-0033-SDN,1990,Natural,Earthquake,Sudan,Africa,7,Richter,
+1990-0020-SUN,1990,Natural,Earthquake,Soviet Union,Europe,7,Richter,4
+1990-0031-SUN,1990,Natural,Earthquake,Soviet Union,Europe,7,Richter,1
+1990-0203-UGA,1990,Natural,Earthquake,Uganda,Africa,7,Richter,
+1990-0186-VUT,1990,Natural,Earthquake,Vanuatu,Oceania,7,Richter,
+1990-0190-VUT,1990,Natural,Earthquake,Vanuatu,Oceania,7,Richter,
+1990-0227-VUT,1990,Natural,Earthquake,Vanuatu,Oceania,7,Richter,
+1991-0117-SUN,1991,Natural,Earthquake,Soviet Union,Europe,7,Richter,270
+1991-0033-SUN,1991,Natural,Earthquake,Soviet Union,Europe,7,Richter,3
+1991-0055-SUN,1991,Natural,Earthquake,Soviet Union,Europe,7,Richter,
+1992-0022-TUR,1992,Natural,Earthquake,Turkey,Asia,7,Richter,653
+1992-0120-USA,1992,Natural,Earthquake,United States of America,Americas,7,Richter,
+1992-0215-USA,1992,Natural,Earthquake,United States of America,Americas,7,Richter,1
+1992-0064-COD,1992,Natural,Earthquake,Congo,Africa,7,Richter,9
+1993-0134-WLF,1993,Natural,Earthquake,Wallis and Futuna,Oceania,7,Richter,5
+1994-0002-USA,1994,Natural,Earthquake,United States of America,Americas,7,Richter,60
+1994-0307-CHN,1994,Natural,Earthquake,China,Asia,7,Richter,1
+1995-0148-CHN,1995,Natural,Earthquake,China,Asia,7,Richter,11
+1996-0021-CHN,1996,Natural,Earthquake,China,Asia,7,Richter,309
+1996-0136-CHN,1996,Natural,Earthquake,China,Asia,7,Richter,26
+1997-0247-CHL,1997,Natural,Earthquake,Chile,Americas,7,Richter,8
+1997-0326-CHN,1997,Natural,Earthquake,China,Asia,7,Richter,9
+1998-0152-AFG,1998,Natural,Earthquake,Afghanistan,Asia,7,Richter,4700
+1998-0169-BOL,1998,Natural,Earthquake,Bolivia,Americas,7,Richter,95
+1994-0062-IDN,1994,Natural,Earthquake,Indonesia,Asia,7,Richter,239
+1994-0518-PHL,1994,Natural,Earthquake,Philippines,Asia,7,Richter,81
+1995-0084-IDN,1995,Natural,Earthquake,Indonesia,Asia,7,Richter,15
+1995-0016-JPN,1995,Natural,Earthquake,Japan,Asia,7,Richter,5297
+1995-0015-COL,1995,Natural,Earthquake,Colombia,Americas,7,Richter,7
+1995-0252-IDN,1995,Natural,Earthquake,Indonesia,Asia,7,Richter,84
+1995-0226-ECU,1995,Natural,Earthquake,Ecuador,Americas,7,Richter,2
+1995-0085-GRC,1995,Natural,Earthquake,Greece,Europe,7,Richter,26
+1995-0203-MEX,1995,Natural,Earthquake,Mexico,Americas,7,Richter,6
+1995-0454-MEX,1995,Natural,Earthquake,Mexico,Americas,7,Richter,
+1995-0148-MMR,1995,Natural,Earthquake,Myanmar,Asia,7,Richter,
+1995-0055-PHL,1995,Natural,Earthquake,Philippines,Asia,7,Richter,
+1996-0002-IDN,1996,Natural,Earthquake,Indonesia,Asia,7,Richter,9
+1996-0261-PER,1996,Natural,Earthquake,Peru,Americas,7,Richter,14
+1997-0095-IRN,1997,Natural,Earthquake,Iran,Asia,7,Richter,1568
+1997-0028-KGZ,1997,Natural,Earthquake,Kyrgyzstan,Asia,7,Richter,
+1997-0071-MEX,1997,Natural,Earthquake,Mexico,Americas,7,Richter,1
+1998-0353-ECU,1998,Natural,Earthquake,Ecuador,Americas,7,Richter,3
+1998-0043-IRN,1998,Natural,Earthquake,Iran,Asia,7,Richter,5
+1994-0076-VUT,1994,Natural,Earthquake,Vanuatu,Oceania,7,Richter,
+1995-0148-THA,1995,Natural,Earthquake,Thailand,Asia,7,Richter,
+1997-0147-VEN,1997,Natural,Earthquake,Venezuela,Americas,7,Richter,80
+1997-0045-TTO,1997,Natural,Earthquake,Trinidad and Tobago,Americas,7,Richter,
+1998-0220-PNG,1998,Natural,Earthquake,Papua New Guinea,Oceania,7,Richter,2182
+2000-0769-AZE,2000,Natural,Earthquake,Azerbaijan,Asia,7,Richter,31
+1999-0208-MEX,1999,Natural,Earthquake,Mexico,Americas,7,Richter,15
+1999-0639-GTM,1999,Natural,Earthquake,Guatemala,Americas,7,Richter,2
+1999-0568-IDN,1999,Natural,Earthquake,Indonesia,Asia,7,Richter,5
+1999-0099-IND,1999,Natural,Earthquake,India,Asia,7,Richter,100
+1999-0065-IRN,1999,Natural,Earthquake,Iran,Asia,7,Richter,1
+1999-0150-IRN,1999,Natural,Earthquake,Iran,Asia,7,Richter,20
+2000-0293-IDN,2000,Natural,Earthquake,Indonesia,Asia,7,Richter,103
+2000-0656-JPN,2000,Natural,Earthquake,Japan,Asia,7,Richter,
+2000-0081-COL,2000,Natural,Earthquake,Colombia,Americas,7,Richter,2
+2000-0761-IDN,2000,Natural,Earthquake,Indonesia,Asia,7,Richter,
+2000-0762-IDN,2000,Natural,Earthquake,Indonesia,Asia,7,Richter,1
+2000-0076-ISL,2000,Natural,Earthquake,Iceland,Europe,7,Richter,
+2000-0335-ISL,2000,Natural,Earthquake,Iceland,Europe,7,Richter,
+2000-0111-MEX,2000,Natural,Earthquake,Mexico,Americas,7,Richter,
+1999-0384-PER,1999,Natural,Earthquake,Peru,Americas,7,Richter,1
+1999-0449-TUR,1999,Natural,Earthquake,Turkey,Asia,7,Richter,845
+1999-0644-PHL,1999,Natural,Earthquake,Philippines,Asia,7,Richter,6
+1999-0601-RUS,1999,Natural,Earthquake,Russia,Europe,7,Richter,1
+2000-0480-RUS,2000,Natural,Earthquake,Russia,Europe,7,Richter,
+2000-0810-TKM,2000,Natural,Earthquake,Turkmenistan,Asia,7,Richter,11
+2000-0653-TZA,2000,Natural,Earthquake,Tanzania,Africa,7,Richter,1
+2001-0042-SLV,2001,Natural,Earthquake,El Salvador,Americas,7,Richter,315
+2001-0749-GRC,2001,Natural,Earthquake,Greece,Europe,7,Richter,
+2001-0669-IDN,2001,Natural,Earthquake,Indonesia,Asia,7,Richter,
+2001-0123-JPN,2001,Natural,Earthquake,Japan,Asia,7,Richter,2
+2002-0584-IND,2002,Natural,Earthquake,India,Asia,7,Richter,2
+2002-0822-IDN,2002,Natural,Earthquake,Indonesia,Asia,7,Richter,3
+2002-0378-IRN,2002,Natural,Earthquake,Iran,Asia,7,Richter,227
+2001-0099-USA,2001,Natural,Earthquake,United States of America,Americas,7,Richter,1
+2002-0172-TWN,2002,Natural,Earthquake,Taiwan,Asia,7,Richter,4
+2002-0002-VUT,2002,Natural,Earthquake,Vanuatu,Oceania,7,Richter,
+2002-0070-PNG,2002,Natural,Earthquake,Papua New Guinea,Oceania,7,Richter,1
+2002-0065-TUR,2002,Natural,Earthquake,Turkey,Asia,7,Richter,42
+2003-0249-JPN,2003,Natural,Earthquake,Japan,Asia,7,Richter,
+2003-0476-JPN,2003,Natural,Earthquake,Japan,Asia,7,Richter,2
+2003-0245-DZA,2003,Natural,Earthquake,Algeria,Africa,7,Richter,2266
+2003-0628-CRI,2003,Natural,Earthquake,Costa Rica,Americas,7,Richter,2
+2003-0254-IDN,2003,Natural,Earthquake,Indonesia,Asia,7,Richter,1
+2003-0630-IRN,2003,Natural,Earthquake,Iran,Asia,7,Richter,26796
+2004-0532-JPN,2004,Natural,Earthquake,Japan,Asia,7,Richter,40
+2004-0040-IDN,2004,Natural,Earthquake,Indonesia,Asia,7,Richter,37
+2004-0607-IDN,2004,Natural,Earthquake,Indonesia,Asia,7,Richter,32
+2004-0575-COL,2004,Natural,Earthquake,Colombia,Americas,7,Richter,
+2005-0129-JPN,2005,Natural,Earthquake,Japan,Asia,7,Richter,1
+2003-0497-RUS,2003,Natural,Earthquake,Russia,Europe,7,Richter,3
+2003-0628-PAN,2003,Natural,Earthquake,Panama,Americas,7,Richter,2
+2003-0623-USA,2003,Natural,Earthquake,United States of America,Americas,7,Richter,2
+2005-0686-AFG,2005,Natural,Earthquake,Afghanistan,Asia,7,Richter,5
+2006-0231-IDN,2006,Natural,Earthquake,Indonesia,Asia,7,Richter,3
+2005-0671-TZA,2005,Natural,Earthquake,Tanzania,Africa,7,Richter,2
+2005-0671-COD,2005,Natural,Earthquake,Congo,Africa,7,Richter,6
+2006-0704-USA,2006,Natural,Earthquake,United States of America,Americas,7,Richter,
+2006-0100-MOZ,2006,Natural,Earthquake,Mozambique,Africa,7,Richter,4
+2006-0688-TWN,2006,Natural,Earthquake,Taiwan,Asia,7,Richter,2
+2007-0101-JPN,2007,Natural,Earthquake,Japan,Asia,7,Richter,1
+2007-0572-BRB,2007,Natural,Earthquake,Barbados,Americas,7,Richter,
+2007-0433-COL,2007,Natural,Earthquake,Colombia,Americas,7,Richter,
+2007-0565-IDN,2007,Natural,Earthquake,Indonesia,Asia,7,Richter,3
+2008-0071-IDN,2008,Natural,Earthquake,Indonesia,Asia,7,Richter,3
+2008-0536-IDN,2008,Natural,Earthquake,Indonesia,Asia,7,Richter,6
+2009-0205-HND,2009,Natural,Earthquake,Honduras,Americas,7,Richter,7
+2009-0112-IDN,2009,Natural,Earthquake,Indonesia,Asia,7,Richter,
+2007-0258-JPN,2007,Natural,Earthquake,Japan,Asia,7,Richter,9
+2007-0572-LCA,2007,Natural,Earthquake,Saint Lucia,Americas,7,Richter,
+2007-0572-MTQ,2007,Natural,Earthquake,Martinique,Americas,7,Richter,1
+2008-0242-JPN,2008,Natural,Earthquake,Japan,Asia,7,Richter,23
+2008-0275-JPN,2008,Natural,Earthquake,Japan,Asia,7,Richter,1
+2008-0454-KGZ,2008,Natural,Earthquake,Kyrgyzstan,Asia,7,Richter,74
+2009-0421-IDN,2009,Natural,Earthquake,Indonesia,Asia,7,Richter,1195
+2009-0354-IDN,2009,Natural,Earthquake,Indonesia,Asia,7,Richter,128
+2010-0238-IDN,2010,Natural,Earthquake,Indonesia,Asia,7,Richter,17
+2010-0169-CHN,2010,Natural,Earthquake,China,Asia,7,Richter,2968
+2010-0017-HTI,2010,Natural,Earthquake,Haiti,Americas,7,Richter,222570
+2010-0645-IRN,2010,Natural,Earthquake,Iran,Asia,7,Richter,7
+2011-0351-IND,2011,Natural,Earthquake,India,Asia,7,Richter,112
+2011-0351-BTN,2011,Natural,Earthquake,Bhutan,Asia,7,Richter,1
+2011-0090-CHN,2011,Natural,Earthquake,China,Asia,7,Richter,
+2011-0351-CHN,2011,Natural,Earthquake,China,Asia,7,Richter,7
+2010-0003-SLB,2010,Natural,Earthquake,Solomon Islands,Oceania,7,Richter,
+2010-0158-MEX,2010,Natural,Earthquake,Mexico,Americas,7,Richter,2
+2010-0463-NZL,2010,Natural,Earthquake,New Zealand,Oceania,7,Richter,
+2010-0027-USA,2010,Natural,Earthquake,United States of America,Americas,7,Richter,
+2011-0130-JPN,2011,Natural,Earthquake,Japan,Asia,7,Richter,2
+2011-0090-MMR,2011,Natural,Earthquake,Myanmar,Asia,7,Richter,74
+2011-0351-NPL,2011,Natural,Earthquake,Nepal,Asia,7,Richter,7
+2011-0104-PAK,2011,Natural,Earthquake,Pakistan,Asia,7,Richter,2
+2011-0090-THA,2011,Natural,Earthquake,Thailand,Asia,7,Richter,1
+2011-0389-IDN,2011,Natural,Earthquake,Indonesia,Asia,7,Richter,10
+2012-0126-CHL,2012,Natural,Earthquake,Chile,Americas,7,Richter,1
+2012-0407-GTM,2012,Natural,Earthquake,Guatemala,Americas,7,Richter,44
+2013-0116-CHN,2013,Natural,Earthquake,China,Asia,7,Richter,198
+2013-0058-COL,2013,Natural,Earthquake,Colombia,Americas,7,Richter,
+2011-0512-MEX,2011,Natural,Earthquake,Mexico,Americas,7,Richter,2
+2011-0443-PER,2011,Natural,Earthquake,Peru,Americas,7,Richter,1
+2011-0397-TUR,2011,Natural,Earthquake,Turkey,Asia,7,Richter,604
+2012-0417-MMR,2012,Natural,Earthquake,Myanmar,Asia,7,Richter,38
+2012-0031-PHL,2012,Natural,Earthquake,Philippines,Asia,7,Richter,113
+2012-0124-MEX,2012,Natural,Earthquake,Mexico,Americas,7,Richter,2
+2013-0268-NZL,2013,Natural,Earthquake,New Zealand,Oceania,7,Richter,
+2013-0484-PAK,2013,Natural,Earthquake,Pakistan,Asia,7,Richter,22
+2013-0409-PER,2013,Natural,Earthquake,Peru,Americas,7,Richter,
+2013-0395-PHL,2013,Natural,Earthquake,Philippines,Asia,7,Richter,230
+2014-0086-CHN,2014,Natural,Earthquake,China,Asia,7,Richter,
+2014-0174-GRC,2014,Natural,Earthquake,Greece,Europe,7,Richter,3
+2014-0234-GTM,2014,Natural,Earthquake,Guatemala,Americas,7,Richter,1
+2015-0175-CHN,2015,Natural,Earthquake,China,Asia,7,Richter,1
+2016-0002-BGD,2016,Natural,Earthquake,Bangladesh,Asia,7,Richter,5
+2016-0151-ECU,2016,Natural,Earthquake,Ecuador,Americas,7,Richter,1
+2014-0127-MEX,2014,Natural,Earthquake,Mexico,Americas,7,Richter,
+2014-0234-MEX,2014,Natural,Earthquake,Mexico,Americas,7,Richter,3
+2014-0111-NIC,2014,Natural,Earthquake,Nicaragua,Americas,7,Richter,2
+2015-0175-NPL,2015,Natural,Earthquake,Nepal,Asia,7,Richter,138
+2015-0415-IDN,2015,Natural,Earthquake,Indonesia,Asia,7,Richter,
+2015-0175-IND,2015,Natural,Earthquake,India,Asia,7,Richter,20
+2016-0002-IND,2016,Natural,Earthquake,India,Asia,7,Richter,8
+2016-0107-JPN,2016,Natural,Earthquake,Japan,Asia,7,Richter,9
+2016-0121-JPN,2016,Natural,Earthquake,Japan,Asia,7,Richter,49
+2016-0100-PAK,2016,Natural,Earthquake,Pakistan,Asia,7,Richter,6
+1902-0013-AZE,1902,Natural,Earthquake,Azerbaijan,Asia,7,Richter,86
+1905-0008-ALB,1905,Natural,Earthquake,Albania,Europe,7,Richter,120
+1909-0020-CHN,1909,Natural,Earthquake,China,Asia,7,Richter,21
+2014-0174-TUR,2014,Natural,Earthquake,Turkey,Asia,7,Richter,
+2015-0528-TJK,2015,Natural,Earthquake,Tajikistan,Asia,7,Richter,2
+2015-0608-TLS,2015,Natural,Earthquake,Timor-Leste,Asia,7,Richter,
+2016-0480-CHN,2016,Natural,Earthquake,China,Asia,7,Richter,1
+2017-0331-CHN,2017,Natural,Earthquake,China,Asia,7,Richter,29
+2017-0280-GRC,2017,Natural,Earthquake,Greece,Europe,7,Richter,2
+2019-0023-CHL,2019,Natural,Earthquake,Chile,Americas,7,Richter,2
+1903-0016-IRN,1903,Natural,Earthquake,Iran,Asia,7,Richter,350
+1909-0021-JPN,1909,Natural,Earthquake,Japan,Asia,7,Richter,41
+1909-0019-PRT,1909,Natural,Earthquake,Portugal,Europe,7,Richter,30
+2016-0475-IDN,2016,Natural,Earthquake,Indonesia,Asia,7,Richter,104
+2016-0358-ITA,2016,Natural,Earthquake,Italy,Europe,7,Richter,
+2016-0383-MMR,2016,Natural,Earthquake,Myanmar,Asia,7,Richter,4
+2016-0537-PHL,2016,Natural,Earthquake,Philippines,Asia,7,Richter,8
+2017-0387-MEX,2017,Natural,Earthquake,Mexico,Americas,7,Richter,369
+2017-0530-IDN,2017,Natural,Earthquake,Indonesia,Asia,7,Richter,4
+2017-0446-IRN,2017,Natural,Earthquake,Iran,Asia,7,Richter,444
+2017-0446-IRQ,2017,Natural,Earthquake,Iraq,Asia,7,Richter,10
+2017-0050-PHL,2017,Natural,Earthquake,Philippines,Asia,7,Richter,8
+2017-0247-PHL,2017,Natural,Earthquake,Philippines,Asia,7,Richter,3
+2018-0330-JPN,2018,Natural,Earthquake,Japan,Asia,7,Richter,41
+2018-0257-IDN,2018,Natural,Earthquake,Indonesia,Asia,7,Richter,564
+2018-0302-IDN,2018,Natural,Earthquake,Indonesia,Asia,7,Richter,10
+2018-0315-MEX,2018,Natural,Earthquake,Mexico,Americas,7,Richter,
+2018-0011-PER,2018,Natural,Earthquake,Peru,Americas,7,Richter,2
+2018-0317-PNG,2018,Natural,Earthquake,Papua New Guinea,Oceania,7,Richter,25
+2019-0334-IDN,2019,Natural,Earthquake,Indonesia,Asia,7,Richter,8
+2019-0377-IDN,2019,Natural,Earthquake,Indonesia,Asia,7,Richter,6
+1906-0028-TWN,1906,Natural,Earthquake,Taiwan,Asia,7,Richter,15
+1909-0018-TWN,1909,Natural,Earthquake,Taiwan,Asia,7,Richter,9
+1913-0028-CHN,1913,Natural,Earthquake,China,Asia,7,Richter,942
+1915-0014-CHN,1915,Natural,Earthquake,China,Asia,7,Richter,170
+1924-0010-CHN,1924,Natural,Earthquake,China,Asia,7,Richter,100
+1936-0027-CHN,1936,Natural,Earthquake,China,Asia,7,Richter,
+1936-0026-COL,1936,Natural,Earthquake,Colombia,Americas,7,Richter,
+1942-0038-CHN,1942,Natural,Earthquake,China,Asia,7,Richter,90
+1948-0033-CHN,1948,Natural,Earthquake,China,Asia,7,Richter,800
+1948-0034-CHN,1948,Natural,Earthquake,China,Asia,7,Richter,110
+1949-0029-CHN,1949,Natural,Earthquake,China,Asia,7,Richter,21
+1952-0040-CHN,1952,Natural,Earthquake,China,Asia,7,Richter,54
+1967-0137-COL,1967,Natural,Earthquake,Colombia,Americas,7,Richter,20
+1969-0156-EGY,1969,Natural,Earthquake,Egypt,Africa,7,Richter,2
+1973-0147-CHN,1973,Natural,Earthquake,China,Asia,7,Richter,
+1974-0170-COL,1974,Natural,Earthquake,Colombia,Americas,7,Richter,11
+2017-0280-TUR,2017,Natural,Earthquake,Turkey,Asia,7,Richter,
+2019-0233-SLV,2019,Natural,Earthquake,El Salvador,Americas,7,Richter,1
+2019-0306-USA,2019,Natural,Earthquake,United States of America,Americas,7,Richter,
+1909-0022-PAK,1909,Natural,Earthquake,Pakistan,Asia,7,Richter,231
+1911-0022-IRN,1911,Natural,Earthquake,Iran,Asia,7,Richter,700
+1911-0021-TJK,1911,Natural,Earthquake,Tajikistan,Asia,7,Richter,90
+1914-0029-TUR,1914,Natural,Earthquake,Turkey,Asia,7,Richter,4000
+1916-0015-TWN,1916,Natural,Earthquake,Taiwan,Asia,7,Richter,180
+1923-0026-IRN,1923,Natural,Earthquake,Iran,Asia,7,Richter,290
+1924-0011-TUR,1924,Natural,Earthquake,Turkey,Asia,7,Richter,60
+1925-0010-PHL,1925,Natural,Earthquake,Philippines,Asia,7,Richter,17
+1925-0011-JPN,1925,Natural,Earthquake,Japan,Asia,7,Richter,395
+1932-0020-GRC,1932,Natural,Earthquake,Greece,Europe,7,Richter,151
+1932-0018-MEX,1932,Natural,Earthquake,Mexico,Americas,7,Richter,
+1936-0033-TWN,1936,Natural,Earthquake,Taiwan,Asia,7,Richter,10
+1939-0026-JPN,1939,Natural,Earthquake,Japan,Asia,7,Richter,27
+1941-0035-TWN,1941,Natural,Earthquake,Taiwan,Asia,7,Richter,319
+1943-0051-TUR,1943,Natural,Earthquake,Turkey,Asia,7,Richter,285
+1946-0029-TWN,1946,Natural,Earthquake,Taiwan,Asia,7,Richter,58
+1948-0032-GRC,1948,Natural,Earthquake,Greece,Europe,7,Richter,2
+1950-0036-IDN,1950,Natural,Earthquake,Indonesia,Asia,7,Richter,16
+1951-0044-TWN,1951,Natural,Earthquake,Taiwan,Asia,7,Richter,68
+1952-0038-JPN,1952,Natural,Earthquake,Japan,Asia,7,Richter,
+1959-0050-TWN,1959,Natural,Earthquake,Taiwan,Asia,7,Richter,16
+1961-0061-JPN,1961,Natural,Earthquake,Japan,Asia,7,Richter,10
+1963-0050-TWN,1963,Natural,Earthquake,Taiwan,Asia,7,Richter,15
+1967-0134-IDN,1967,Natural,Earthquake,Indonesia,Asia,7,Richter,14
+1968-0143-IRN,1968,Natural,Earthquake,Iran,Asia,7,Richter,700
+1968-0142-MEX,1968,Natural,Earthquake,Mexico,Americas,7,Richter,18
+2019-0451-IDN,2019,Natural,Earthquake,Indonesia,Asia,7,Richter,31
+2019-0522-PHL,2019,Natural,Earthquake,Philippines,Asia,7,Richter,10
+2019-0529-PHL,2019,Natural,Earthquake,Philippines,Asia,7,Richter,23
+2019-0619-PHL,2019,Natural,Earthquake,Philippines,Asia,7,Richter,14
+2020-0466-GRC,2020,Natural,Earthquake,Greece,Europe,7,Richter,2
+2020-0281-MEX,2020,Natural,Earthquake,Mexico,Americas,7,Richter,10
+2020-0370-PHL,2020,Natural,Earthquake,Philippines,Asia,7,Richter,1
+2020-0034-TUR,2020,Natural,Earthquake,Turkey,Asia,7,Richter,41
+2020-0466-TUR,2020,Natural,Earthquake,Turkey,Asia,7,Richter,115
+2021-0511-HTI,2021,Natural,Earthquake,Haiti,Americas,7,Richter,2207
+2021-0105-JPN,2021,Natural,Earthquake,Japan,Asia,7,Richter,1
+2021-0194-JPN,2021,Natural,Earthquake,Japan,Asia,7,Richter,
+1973-0149-USA,1973,Natural,Earthquake,United States of America,Americas,7,Richter,
+1909-0009-FRA,1909,Natural,Earthquake,France,Europe,6,Richter,46
+1910-0005-DZA,1910,Natural,Earthquake,Algeria,Africa,6,Richter,12
+1917-0009-GTM,1917,Natural,Earthquake,Guatemala,Americas,6,Richter,2650
+1927-0014-IDN,1927,Natural,Earthquake,Indonesia,Asia,6,Richter,50
+1939-0005-GHA,1939,Natural,Earthquake,Ghana,Africa,6,Richter,22
+1953-0054-CYP,1953,Natural,Earthquake,Cyprus,Asia,6,Richter,40
+1955-0020-EGY,1955,Natural,Earthquake,Egypt,Africa,6,Richter,20
+1956-0038-IND,1956,Natural,Earthquake,India,Asia,6,Richter,113
+1960-0033-DZA,1960,Natural,Earthquake,Algeria,Africa,6,Richter,57
+1962-0044-ALB,1962,Natural,Earthquake,Albania,Europe,6,Richter,15
+1965-0002-DZA,1965,Natural,Earthquake,Algeria,Africa,6,Richter,2
+1965-0015-GRC,1965,Natural,Earthquake,Greece,Europe,6,Richter,38
+1966-0026-GRC,1966,Natural,Earthquake,Greece,Europe,6,Richter,1
+1966-0068-GRC,1966,Natural,Earthquake,Greece,Europe,6,Richter,1
+1967-0101-IDN,1967,Natural,Earthquake,Indonesia,Asia,6,Richter,71
+1967-0032-GRC,1967,Natural,Earthquake,Greece,Europe,6,Richter,9
+1967-0102-IDN,1967,Natural,Earthquake,Indonesia,Asia,6,Richter,54
+1969-0082-CHN,1969,Natural,Earthquake,China,Asia,6,Richter,3000
+1969-0061-ETH,1969,Natural,Earthquake,Ethiopia,Africa,6,Richter,24
+1976-0028-AFG,1976,Natural,Earthquake,Afghanistan,Asia,6,Richter,50
+1977-0048-BGR,1977,Natural,Earthquake,Bulgaria,Europe,6,Richter,20
+1978-0081-GRC,1978,Natural,Earthquake,Greece,Europe,6,Richter,50
+1902-0011-SUN,1902,Natural,Earthquake,Soviet Union,Europe,6,Richter,4562
+1903-0007-TUR,1903,Natural,Earthquake,Turkey,Asia,6,Richter,3560
+1913-0009-PER,1913,Natural,Earthquake,Peru,Americas,6,Richter,150
+1915-0004-USA,1915,Natural,Earthquake,United States of America,Americas,6,Richter,6
+1920-0014-ITA,1920,Natural,Earthquake,Italy,Europe,6,Richter,1400
+1923-0020-IRN,1923,Natural,Earthquake,Iran,Asia,6,Richter,2200
+1925-0005-USA,1925,Natural,Earthquake,United States of America,Americas,6,Richter,13
+1927-0007-JOR,1927,Natural,Earthquake,Jordan,Asia,6,Richter,268
+1930-0008-ITA,1930,Natural,Earthquake,Italy,Europe,6,Richter,1883
+1931-0001-NIC,1931,Natural,Earthquake,Nicaragua,Americas,6,Richter,1000
+1933-0007-USA,1933,Natural,Earthquake,United States of America,Americas,6,Richter,116
+1935-0003-TWN,1935,Natural,Earthquake,Taiwan,Asia,6,Richter,3276
+1939-0008-TUR,1939,Natural,Earthquake,Turkey,Asia,6,Richter,13
+1939-0023-TUR,1939,Natural,Earthquake,Turkey,Asia,6,Richter,60
+1946-0012-TUR,1946,Natural,Earthquake,Turkey,Asia,6,Richter,840
+1950-0005-PER,1950,Natural,Earthquake,Peru,Americas,6,Richter,83
+1951-0038-NIC,1951,Natural,Earthquake,Nicaragua,Americas,6,Richter,500
+1952-0014-TUR,1952,Natural,Earthquake,Turkey,Asia,6,Richter,103
+1952-0006-USA,1952,Natural,Earthquake,United States of America,Americas,6,Richter,2
+1955-0002-PHL,1955,Natural,Earthquake,Philippines,Asia,6,Richter,400
+1956-0002-IRN,1956,Natural,Earthquake,Iran,Asia,6,Richter,350
+1956-0005-LBN,1956,Natural,Earthquake,Lebanon,Asia,6,Richter,136
+1957-0015-TUN,1957,Natural,Earthquake,Tunisia,Africa,6,Richter,13
+1959-0044-MEX,1959,Natural,Earthquake,Mexico,Americas,6,Richter,25
+1960-0010-MAR,1960,Natural,Earthquake,Morocco,Africa,6,Richter,12000
+1960-0002-IRN,1960,Natural,Earthquake,Iran,Asia,6,Richter,480
+1962-0045-ITA,1962,Natural,Earthquake,Italy,Europe,6,Richter,16
+1965-0025-SLV,1965,Natural,Earthquake,El Salvador,Americas,6,Richter,125
+1966-0051-NPL,1966,Natural,Earthquake,Nepal,Asia,6,Richter,80
+1968-0073-MEX,1968,Natural,Earthquake,Mexico,Americas,6,Richter,15
+1968-0023-ITA,1968,Natural,Earthquake,Italy,Europe,6,Richter,224
+1969-0046-IRN,1969,Natural,Earthquake,Iran,Asia,6,Richter,50
+1971-0030-TUR,1971,Natural,Earthquake,Turkey,Asia,6,Richter,57
+1972-0067-NIC,1972,Natural,Earthquake,Nicaragua,Americas,6,Richter,10000
+1972-0132-PAK,1972,Natural,Earthquake,Pakistan,Asia,6,Richter,100
+1972-0024-PER,1972,Natural,Earthquake,Peru,Americas,6,Richter,12
+1974-0063-PAK,1974,Natural,Earthquake,Pakistan,Asia,6,Richter,4700
+1976-0072-IRN,1976,Natural,Earthquake,Iran,Asia,6,Richter,16
+1976-0020-ISL,1976,Natural,Earthquake,Iceland,Europe,6,Richter,1
+1977-0057-IRN,1977,Natural,Earthquake,Iran,Asia,6,Richter,352
+1977-0142-IRN,1977,Natural,Earthquake,Iran,Asia,6,Richter,589
+1978-0057-ITA,1978,Natural,Earthquake,Italy,Europe,6,Richter,5
+1941-0029-YMN,1941,Natural,Earthquake,Yemen Arab Rep,Asia,6,Richter,1200
+1963-0016-YUG,1963,Natural,Earthquake,Yugoslavia,Europe,6,Richter,1070
+1969-0107-YUG,1969,Natural,Earthquake,Yugoslavia,Europe,6,Richter,15
+1969-0097-ZAF,1969,Natural,Earthquake,South Africa,Africa,6,Richter,9
+1978-0113-DFR,1978,Natural,Earthquake,Germany Fed Rep,Europe,6,Richter,
+1979-0082-CHN,1979,Natural,Earthquake,China,Asia,6,Richter,
+1980-0081-ECU,1980,Natural,Earthquake,Ecuador,Americas,6,Richter,8
+1980-0239-GRC,1980,Natural,Earthquake,Greece,Europe,6,Richter,1
+1981-0122-GRC,1981,Natural,Earthquake,Greece,Europe,6,Richter,2
+1982-0161-ALB,1982,Natural,Earthquake,Albania,Europe,6,Richter,1
+1982-0068-CHN,1982,Natural,Earthquake,China,Asia,6,Richter,10
+1983-0161-GIN,1983,Natural,Earthquake,Guinea,Africa,6,Richter,275
+1983-0171-GRC,1983,Natural,Earthquake,Greece,Europe,6,Richter,
+1984-0309-AFG,1984,Natural,Earthquake,Afghanistan,Asia,6,Richter,1
+1985-0055-CHN,1985,Natural,Earthquake,China,Asia,6,Richter,22
+1985-0386-DZA,1985,Natural,Earthquake,Algeria,Africa,6,Richter,30
+1986-0173-CHN,1986,Natural,Earthquake,China,Asia,6,Richter,
+1986-0113-GRC,1986,Natural,Earthquake,Greece,Europe,6,Richter,20
+1987-0162-ECU,1987,Natural,Earthquake,Ecuador,Americas,6,Richter,2
+1987-0102-CHN,1987,Natural,Earthquake,China,Asia,6,Richter,
+1988-0467-GRC,1988,Natural,Earthquake,Greece,Europe,6,Richter,
+1988-0079-BGD,1988,Natural,Earthquake,Bangladesh,Asia,6,Richter,2
+1988-0035-CHN,1988,Natural,Earthquake,China,Asia,6,Richter,
+1988-0463-GTM,1988,Natural,Earthquake,Guatemala,Americas,6,Richter,
+1978-0141-IRN,1978,Natural,Earthquake,Iran,Asia,6,Richter,45
+1979-0054-IDN,1979,Natural,Earthquake,Indonesia,Asia,6,Richter,34
+1979-0102-IDN,1979,Natural,Earthquake,Indonesia,Asia,6,Richter,26
+1979-0115-IDN,1979,Natural,Earthquake,Indonesia,Asia,6,Richter,32
+1979-0216-ITA,1979,Natural,Earthquake,Italy,Europe,6,Richter,5
+1980-0084-IND,1980,Natural,Earthquake,India,Asia,6,Richter,13
+1980-0108-IRN,1980,Natural,Earthquake,Iran,Asia,6,Richter,20
+1980-0264-IRN,1980,Natural,Earthquake,Iran,Asia,6,Richter,26
+1980-0092-JPN,1980,Natural,Earthquake,Japan,Asia,6,Richter,2
+1980-0051-MEX,1980,Natural,Earthquake,Mexico,Americas,6,Richter,2
+1981-0081-PAK,1981,Natural,Earthquake,Pakistan,Asia,6,Richter,250
+1982-0128-IDN,1982,Natural,Earthquake,Indonesia,Asia,6,Richter,13
+1982-0293-PER,1982,Natural,Earthquake,Peru,Americas,6,Richter,3
+1983-0432-IRN,1983,Natural,Earthquake,Iran,Asia,6,Richter,3
+1983-0162-PNG,1983,Natural,Earthquake,Papua New Guinea,Oceania,6,Richter,10
+1984-0015-IDN,1984,Natural,Earthquake,Indonesia,Asia,6,Richter,2
+1984-0124-IND,1984,Natural,Earthquake,India,Asia,6,Richter,20
+1984-0038-ITA,1984,Natural,Earthquake,Italy,Europe,6,Richter,
+1985-0110-IDN,1985,Natural,Earthquake,Indonesia,Asia,6,Richter,10
+1985-0191-PER,1985,Natural,Earthquake,Peru,Americas,6,Richter,
+1986-0174-IRN,1986,Natural,Earthquake,Iran,Asia,6,Richter,1
+1986-0189-IRN,1986,Natural,Earthquake,Iran,Asia,6,Richter,
+1986-0051-PER,1986,Natural,Earthquake,Peru,Americas,6,Richter,15
+1987-0086-IDN,1987,Natural,Earthquake,Indonesia,Asia,6,Richter,2
+1987-0229-JPN,1987,Natural,Earthquake,Japan,Asia,6,Richter,2
+1988-0041-IRN,1988,Natural,Earthquake,Iran,Asia,6,Richter,1
+1988-0144-IRN,1988,Natural,Earthquake,Iran,Asia,6,Richter,
+1979-0052-YUG,1979,Natural,Earthquake,Yugoslavia,Europe,6,Richter,
+1980-0046-YUG,1980,Natural,Earthquake,Yugoslavia,Europe,6,Richter,
+1981-0073-YUG,1981,Natural,Earthquake,Yugoslavia,Europe,6,Richter,
+1982-0131-YMN,1982,Natural,Earthquake,Yemen Arab Rep,Asia,6,Richter,1507
+1983-0197-USA,1983,Natural,Earthquake,United States of America,Americas,6,Richter,
+1985-0122-SUN,1985,Natural,Earthquake,Soviet Union,Europe,6,Richter,29
+1986-0106-SUN,1986,Natural,Earthquake,Soviet Union,Europe,6,Richter,1
+1986-0171-SUN,1986,Natural,Earthquake,Soviet Union,Europe,6,Richter,2
+1986-0058-TUR,1986,Natural,Earthquake,Turkey,Asia,6,Richter,15
+1986-0183-TUR,1986,Natural,Earthquake,Turkey,Asia,6,Richter,
+1986-0177-USA,1986,Natural,Earthquake,United States of America,Americas,6,Richter,
+1986-0074-VEN,1986,Natural,Earthquake,Venezuela,Americas,6,Richter,2
+1986-0182-VEN,1986,Natural,Earthquake,Venezuela,Americas,6,Richter,1
+1987-0179-USA,1987,Natural,Earthquake,United States of America,Americas,6,Richter,8
+1988-0702-ALB,1988,Natural,Earthquake,Albania,Europe,6,Richter,
+1989-0139-DZA,1989,Natural,Earthquake,Algeria,Africa,6,Richter,22
+1989-0081-CHN,1989,Natural,Earthquake,China,Asia,6,Richter,8
+1989-0155-CHN,1989,Natural,Earthquake,China,Asia,6,Richter,1
+1989-0287-CHN,1989,Natural,Earthquake,China,Asia,6,Richter,
+1990-0093-CHN,1990,Natural,Earthquake,China,Asia,6,Richter,1
+1990-0170-CRI,1990,Natural,Earthquake,Costa Rica,Americas,6,Richter,1
+1991-0114-CRI,1991,Natural,Earthquake,Costa Rica,Americas,6,Richter,47
+1991-0033-AFG,1991,Natural,Earthquake,Afghanistan,Asia,6,Richter,130
+1991-0088-CHN,1991,Natural,Earthquake,China,Asia,6,Richter,1
+1991-0773-CRI,1991,Natural,Earthquake,Costa Rica,Americas,6,Richter,
+1992-0202-AFG,1992,Natural,Earthquake,Afghanistan,Asia,6,Richter,14
+1992-0093-BEL,1992,Natural,Earthquake,Belgium,Europe,6,Richter,
+1992-0093-DEU,1992,Natural,Earthquake,Germany,Europe,6,Richter,1
+1992-0149-EGY,1992,Natural,Earthquake,Egypt,Africa,6,Richter,552
+1993-0108-CHN,1993,Natural,Earthquake,China,Asia,6,Richter,
+1993-0490-COL,1993,Natural,Earthquake,Colombia,Americas,6,Richter,2
+1989-0092-IDN,1989,Natural,Earthquake,Indonesia,Asia,6,Richter,120
+1989-0218-IDN,1989,Natural,Earthquake,Indonesia,Asia,6,Richter,
+1989-0090-IRN,1989,Natural,Earthquake,Iran,Asia,6,Richter,100
+1989-0167-MWI,1989,Natural,Earthquake,Malawi,Africa,6,Richter,9
+1990-0593-IDN,1990,Natural,Earthquake,Indonesia,Asia,6,Richter,1
+1990-0221-FJI,1990,Natural,Earthquake,Fiji,Oceania,6,Richter,
+1990-0169-GRC,1990,Natural,Earthquake,Greece,Europe,6,Richter,1
+1990-0702-IDN,1990,Natural,Earthquake,Indonesia,Asia,6,Richter,
+1990-0194-NIC,1990,Natural,Earthquake,Nicaragua,Americas,6,Richter,
+1990-0189-PAK,1990,Natural,Earthquake,Pakistan,Asia,6,Richter,11
+1990-0219-PAK,1990,Natural,Earthquake,Pakistan,Asia,6,Richter,
+1991-0122-GEO,1991,Natural,Earthquake,Georgia,Asia,6,Richter,8
+1991-0368-IND,1991,Natural,Earthquake,India,Asia,6,Richter,1500
+1991-0774-ROU,1991,Natural,Earthquake,Romania,Europe,6,Richter,
+1991-0232-IRQ,1991,Natural,Earthquake,Iraq,Asia,6,Richter,20
+1991-0033-PAK,1991,Natural,Earthquake,Pakistan,Asia,6,Richter,300
+1991-0773-PAN,1991,Natural,Earthquake,Panama,Americas,6,Richter,
+1991-0399-ROU,1991,Natural,Earthquake,Romania,Europe,6,Richter,
+1992-0252-JPN,1992,Natural,Earthquake,Japan,Asia,6,Richter,
+1992-0093-NLD,1992,Natural,Earthquake,Netherlands,Europe,6,Richter,
+1992-0058-PAK,1992,Natural,Earthquake,Pakistan,Asia,6,Richter,4
+1992-0202-PAK,1992,Natural,Earthquake,Pakistan,Asia,6,Richter,36
+1993-0144-PER,1993,Natural,Earthquake,Peru,Americas,6,Richter,6
+1993-0074-IND,1993,Natural,Earthquake,India,Asia,6,Richter,9748
+1993-0035-IRN,1993,Natural,Earthquake,Iran,Asia,6,Richter,24
+1994-0041-IRN,1994,Natural,Earthquake,Iran,Asia,6,Richter,3
+1994-0040-IRN,1994,Natural,Earthquake,Iran,Asia,6,Richter,9
+1989-0186-USA,1989,Natural,Earthquake,United States of America,Americas,6,Richter,5
+1990-0228-SUN,1990,Natural,Earthquake,Soviet Union,Europe,6,Richter,
+1990-0187-USA,1990,Natural,Earthquake,United States of America,Americas,6,Richter,
+1991-0192-USA,1991,Natural,Earthquake,United States of America,Americas,6,Richter,2
+1992-0236-UZB,1992,Natural,Earthquake,Uzbekistan,Asia,6,Richter,9
+1992-0554-USA,1992,Natural,Earthquake,United States of America,Americas,6,Richter,
+1993-0056-SDN,1993,Natural,Earthquake,Sudan,Africa,6,Richter,3
+1993-0480-USA,1993,Natural,Earthquake,United States of America,Americas,6,Richter,2
+1994-0051-UGA,1994,Natural,Earthquake,Uganda,Africa,6,Richter,7
+1994-0057-AFG,1994,Natural,Earthquake,Afghanistan,Asia,6,Richter,160
+1994-0600-CHN,1994,Natural,Earthquake,China,Asia,6,Richter,
+1994-0767-CHN,1994,Natural,Earthquake,China,Asia,6,Richter,
+1995-0261-CHN,1995,Natural,Earthquake,China,Asia,6,Richter,46
+1995-0457-CHN,1995,Natural,Earthquake,China,Asia,6,Richter,14
+1996-0081-CHN,1996,Natural,Earthquake,China,Asia,6,Richter,18
+1996-0205-CHN,1996,Natural,Earthquake,China,Asia,6,Richter,
+1997-0095-AFG,1997,Natural,Earthquake,Afghanistan,Asia,6,Richter,5
+1997-0281-BGD,1997,Natural,Earthquake,Bangladesh,Asia,6,Richter,23
+1997-0011-CHN,1997,Natural,Earthquake,China,Asia,6,Richter,12
+1997-0532-CHN,1997,Natural,Earthquake,China,Asia,6,Richter,9
+1998-0076-CHN,1998,Natural,Earthquake,China,Asia,6,Richter,49
+1998-0026-AFG,1998,Natural,Earthquake,Afghanistan,Asia,6,Richter,2323
+1998-0110-AUT,1998,Natural,Earthquake,Austria,Europe,6,Richter,
+1998-0215-AZE,1998,Natural,Earthquake,Azerbaijan,Asia,6,Richter,1
+1998-0206-AZO,1998,Natural,Earthquake,Azores Islands,Europe,6,Richter,10
+1994-0059-COL,1994,Natural,Earthquake,Colombia,Americas,6,Richter,271
+1994-0070-IRN,1994,Natural,Earthquake,Iran,Asia,6,Richter,2
+1994-0513-IDN,1994,Natural,Earthquake,Indonesia,Asia,6,Richter,1
+1994-0196-DZA,1994,Natural,Earthquake,Algeria,Africa,6,Richter,171
+1994-0652-IDN,1994,Natural,Earthquake,Indonesia,Asia,6,Richter,
+1994-0768-PHL,1994,Natural,Earthquake,Philippines,Asia,6,Richter,
+1995-0030-COL,1995,Natural,Earthquake,Colombia,Americas,6,Richter,40
+1995-0034-CYP,1995,Natural,Earthquake,Cyprus,Asia,6,Richter,2
+1995-0293-EGY,1995,Natural,Earthquake,Egypt,Africa,6,Richter,10
+1995-0437-GRC,1995,Natural,Earthquake,Greece,Europe,6,Richter,26
+1995-0089-IDN,1995,Natural,Earthquake,Indonesia,Asia,6,Richter,
+1996-0062-ECU,1996,Natural,Earthquake,Ecuador,Americas,6,Richter,27
+1996-0179-GRC,1996,Natural,Earthquake,Greece,Europe,6,Richter,
+1996-0212-HRV,1996,Natural,Earthquake,Croatia,Europe,6,Richter,
+1997-0030-PAK,1997,Natural,Earthquake,Pakistan,Asia,6,Richter,50
+1997-0240-IDN,1997,Natural,Earthquake,Indonesia,Asia,6,Richter,20
+1997-0115-IND,1997,Natural,Earthquake,India,Asia,6,Richter,43
+1997-0017-IRN,1997,Natural,Earthquake,Iran,Asia,6,Richter,100
+1997-0035-IRN,1997,Natural,Earthquake,Iran,Asia,6,Richter,1100
+1997-0533-IRN,1997,Natural,Earthquake,Iran,Asia,6,Richter,
+1997-0228-ITA,1997,Natural,Earthquake,Italy,Europe,6,Richter,14
+1997-0116-MEX,1997,Natural,Earthquake,Mexico,Americas,6,Richter,
+1998-0084-IRN,1998,Natural,Earthquake,Iran,Asia,6,Richter,12
+1995-0233-TUR,1995,Natural,Earthquake,Turkey,Asia,6,Richter,94
+1998-0384-CHN,1998,Natural,Earthquake,China,Asia,6,Richter,3
+1998-0110-SVN,1998,Natural,Earthquake,Slovenia,Europe,6,Richter,
+1998-0201-TUR,1998,Natural,Earthquake,Turkey,Asia,6,Richter,145
+1998-0579-AFG,1998,Natural,Earthquake,Afghanistan,Asia,6,Richter,
+1998-0581-CHN,1998,Natural,Earthquake,China,Asia,6,Richter,
+1998-0582-CHN,1998,Natural,Earthquake,China,Asia,6,Richter,3
+1999-0054-AFG,1999,Natural,Earthquake,Afghanistan,Asia,6,Richter,70
+1999-0455-CHN,1999,Natural,Earthquake,China,Asia,6,Richter,
+2000-0033-CHN,2000,Natural,Earthquake,China,Asia,6,Richter,7
+2000-0298-CHN,2000,Natural,Earthquake,China,Asia,6,Richter,
+2001-0064-CHN,2001,Natural,Earthquake,China,Asia,6,Richter,3
+1998-0583-IDN,1998,Natural,Earthquake,Indonesia,Asia,6,Richter,1
+1999-0016-COL,1999,Natural,Earthquake,Colombia,Americas,6,Richter,1186
+1999-0561-DZA,1999,Natural,Earthquake,Algeria,Africa,6,Richter,22
+1999-0638-ESP,1999,Natural,Earthquake,Spain,Europe,6,Richter,
+1999-0302-GRC,1999,Natural,Earthquake,Greece,Europe,6,Richter,143
+1999-0385-MEX,1999,Natural,Earthquake,Mexico,Americas,6,Richter,
+2000-0303-GRC,2000,Natural,Earthquake,Greece,Europe,6,Richter,
+2000-0428-JPN,2000,Natural,Earthquake,Japan,Asia,6,Richter,1
+1998-0579-PAK,1998,Natural,Earthquake,Pakistan,Asia,6,Richter,1
+1999-0314-TUR,1999,Natural,Earthquake,Turkey,Asia,6,Richter,6
+1999-0445-TUR,1999,Natural,Earthquake,Turkey,Asia,6,Richter,3
+1999-0405-TWN,1999,Natural,Earthquake,Taiwan,Asia,6,Richter,1
+2000-0291-TUR,2000,Natural,Earthquake,Turkey,Asia,6,Richter,2
+2001-0086-AFG,2001,Natural,Earthquake,Afghanistan,Asia,6,Richter,
+2002-0122-AFG,2002,Natural,Earthquake,Afghanistan,Asia,6,Richter,150
+2002-0175-AFG,2002,Natural,Earthquake,Afghanistan,Asia,6,Richter,1000
+2002-0208-AFG,2002,Natural,Earthquake,Afghanistan,Asia,6,Richter,50
+2002-0368-ARG,2002,Natural,Earthquake,Argentina,Americas,6,Richter,
+2001-0151-CHN,2001,Natural,Earthquake,China,Asia,6,Richter,2
+2001-0214-CHN,2001,Natural,Earthquake,China,Asia,6,Richter,2
+2001-0598-CHN,2001,Natural,Earthquake,China,Asia,6,Richter,1
+2002-0690-ITA,2002,Natural,Earthquake,Italy,Europe,6,Richter,30
+2002-0835-CHN,2002,Natural,Earthquake,China,Asia,6,Richter,2
+2002-0757-GRC,2002,Natural,Earthquake,Greece,Europe,6,Richter,
+2002-0512-IDN,2002,Natural,Earthquake,Indonesia,Asia,6,Richter,
+2002-0820-IDN,2002,Natural,Earthquake,Indonesia,Asia,6,Richter,
+2002-0821-IRN,2002,Natural,Earthquake,Iran,Asia,6,Richter,
+2002-0882-ITA,2002,Natural,Earthquake,Italy,Europe,6,Richter,2
+2003-0105-CHN,2003,Natural,Earthquake,China,Asia,6,Richter,268
+2003-0069-IDN,2003,Natural,Earthquake,Indonesia,Asia,6,Richter,
+2001-0345-PNG,2001,Natural,Earthquake,Papua New Guinea,Oceania,6,Richter,
+2001-0751-PER,2001,Natural,Earthquake,Peru,Americas,6,Richter,2
+2001-0754-PER,2001,Natural,Earthquake,Peru,Americas,6,Richter,4
+2001-0358-TUR,2001,Natural,Earthquake,Turkey,Asia,6,Richter,
+2002-0721-PAK,2002,Natural,Earthquake,Pakistan,Asia,6,Richter,19
+2002-0770-VUT,2002,Natural,Earthquake,Vanuatu,Oceania,6,Richter,
+2002-0122-PAK,2002,Natural,Earthquake,Pakistan,Asia,6,Richter,3
+2002-0234-SCG,2002,Natural,Earthquake,Serbia Montenegro,Europe,6,Richter,1
+2002-0122-TJK,2002,Natural,Earthquake,Tajikistan,Asia,6,Richter,
+2002-0654-TZA,2002,Natural,Earthquake,Tanzania,Africa,6,Richter,2
+2003-0050-TUR,2003,Natural,Earthquake,Turkey,Asia,6,Richter,1
+2003-0452-BGD,2003,Natural,Earthquake,Bangladesh,Asia,6,Richter,2
+2003-0348-CHN,2003,Natural,Earthquake,China,Asia,6,Richter,16
+2003-0477-DOM,2003,Natural,Earthquake,Dominican Republic,Americas,6,Richter,3
+2003-0400-GRC,2003,Natural,Earthquake,Greece,Europe,6,Richter,
+2003-0354-JPN,2003,Natural,Earthquake,Japan,Asia,6,Richter,
+2003-0183-CHN,2003,Natural,Earthquake,China,Asia,6,Richter,
+2003-0209-CHN,2003,Natural,Earthquake,China,Asia,6,Richter,1
+2003-0509-CHN,2003,Natural,Earthquake,China,Asia,6,Richter,3
+2003-0519-CHN,2003,Natural,Earthquake,China,Asia,6,Richter,9
+2003-0547-CHN,2003,Natural,Earthquake,China,Asia,6,Richter,4
+2003-0582-CHN,2003,Natural,Earthquake,China,Asia,6,Richter,11
+2003-0255-DZA,2003,Natural,Earthquake,Algeria,Africa,6,Richter,9
+2003-0414-IDN,2003,Natural,Earthquake,Indonesia,Asia,6,Richter,
+2003-0438-IRN,2003,Natural,Earthquake,Iran,Asia,6,Richter,1
+2003-0259-KAZ,2003,Natural,Earthquake,Kazakhstan,Asia,6,Richter,3
+2004-0599-CRI,2004,Natural,Earthquake,Costa Rica,Americas,6,Richter,8
+2004-0234-IRN,2004,Natural,Earthquake,Iran,Asia,6,Richter,35
+2004-0126-CHN,2004,Natural,Earthquake,China,Asia,6,Richter,
+2004-0680-CHN,2004,Natural,Earthquake,China,Asia,6,Richter,
+2004-0582-DMA,2004,Natural,Earthquake,Dominica,Americas,6,Richter,
+2004-0582-GLP,2004,Natural,Earthquake,Guadeloupe,Americas,6,Richter,1
+2004-0001-IDN,2004,Natural,Earthquake,Indonesia,Asia,6,Richter,1
+2005-0211-JPN,2005,Natural,Earthquake,Japan,Asia,6,Richter,
+2005-0031-IDN,2005,Natural,Earthquake,Indonesia,Asia,6,Richter,1
+2005-0092-IRN,2005,Natural,Earthquake,Iran,Asia,6,Richter,612
+2003-0197-TUR,2003,Natural,Earthquake,Turkey,Asia,6,Richter,177
+2003-0783-TUR,2003,Natural,Earthquake,Turkey,Asia,6,Richter,
+2004-0054-PAK,2004,Natural,Earthquake,Pakistan,Asia,6,Richter,24
+2004-0132-TUR,2004,Natural,Earthquake,Turkey,Asia,6,Richter,
+2004-0073-MAR,2004,Natural,Earthquake,Morocco,Africa,6,Richter,628
+2004-0127-TUR,2004,Natural,Earthquake,Turkey,Asia,6,Richter,9
+2005-0070-TUR,2005,Natural,Earthquake,Turkey,Asia,6,Richter,2
+2005-0126-TUR,2005,Natural,Earthquake,Turkey,Asia,6,Richter,
+2006-0405-AFG,2006,Natural,Earthquake,Afghanistan,Asia,6,Richter,1
+2005-0654-IRN,2005,Natural,Earthquake,Iran,Asia,6,Richter,13
+2005-0738-IRN,2005,Natural,Earthquake,Iran,Asia,6,Richter,
+2006-0678-IDN,2006,Natural,Earthquake,Indonesia,Asia,6,Richter,8
+2006-0279-IDN,2006,Natural,Earthquake,Indonesia,Asia,6,Richter,5778
+2006-0705-IDN,2006,Natural,Earthquake,Indonesia,Asia,6,Richter,1
+2006-0123-IRN,2006,Natural,Earthquake,Iran,Asia,6,Richter,
+2006-0153-IRN,2006,Natural,Earthquake,Iran,Asia,6,Richter,63
+2007-0087-IDN,2007,Natural,Earthquake,Indonesia,Asia,6,Richter,67
+2005-0328-PNG,2005,Natural,Earthquake,Papua New Guinea,Oceania,6,Richter,1
+2005-0329-TUR,2005,Natural,Earthquake,Turkey,Asia,6,Richter,
+2006-0694-KGZ,2006,Natural,Earthquake,Kyrgyzstan,Asia,6,Richter,
+2006-0405-TJK,2006,Natural,Earthquake,Tajikistan,Asia,6,Richter,3
+2007-0158-CHL,2007,Natural,Earthquake,Chile,Americas,6,Richter,10
+2007-0217-CHN,2007,Natural,Earthquake,China,Asia,6,Richter,3
+2008-0649-COL,2008,Natural,Earthquake,Colombia,Americas,6,Richter,11
+2008-0226-GRC,2008,Natural,Earthquake,Greece,Europe,6,Richter,2
+2008-0325-CHN,2008,Natural,Earthquake,China,Asia,6,Richter,4
+2008-0355-CHN,2008,Natural,Earthquake,China,Asia,6,Richter,6
+2008-0374-CHN,2008,Natural,Earthquake,China,Asia,6,Richter,40
+2008-0455-CHN,2008,Natural,Earthquake,China,Asia,6,Richter,30
+2008-0650-CHN,2008,Natural,Earthquake,China,Asia,6,Richter,8
+2009-0002-CRI,2009,Natural,Earthquake,Costa Rica,Americas,6,Richter,31
+2007-0334-RUS,2007,Natural,Earthquake,Russia,Europe,6,Richter,2
+2008-0500-PAK,2008,Natural,Earthquake,Pakistan,Asia,6,Richter,166
+2008-0401-IRN,2008,Natural,Earthquake,Iran,Asia,6,Richter,6
+2008-0001-KGZ,2008,Natural,Earthquake,Kyrgyzstan,Asia,6,Richter,
+2008-0476-RUS,2008,Natural,Earthquake,Russia,Europe,6,Richter,13
+2008-0040-RWA,2008,Natural,Earthquake,Rwanda,Africa,6,Richter,36
+2008-0099-USA,2008,Natural,Earthquake,United States of America,Americas,6,Richter,
+2009-0136-ITA,2009,Natural,Earthquake,Italy,Europe,6,Richter,295
+2008-0040-COD,2008,Natural,Earthquake,Congo,Africa,6,Richter,11
+2009-0366-ALB,2009,Natural,Earthquake,Albania,Europe,6,Richter,
+2009-0249-CHN,2009,Natural,Earthquake,China,Asia,6,Richter,1
+2009-0388-GEO,2009,Natural,Earthquake,Georgia,Asia,6,Richter,
+2010-0669-AFG,2010,Natural,Earthquake,Afghanistan,Asia,6,Richter,11
+2010-0361-IRN,2010,Natural,Earthquake,Iran,Asia,6,Richter,
+2010-0363-IRN,2010,Natural,Earthquake,Iran,Asia,6,Richter,1
+2010-0672-IRN,2010,Natural,Earthquake,Iran,Asia,6,Richter,3
+2011-0079-CHN,2011,Natural,Earthquake,China,Asia,6,Richter,25
+2009-0320-JPN,2009,Natural,Earthquake,Japan,Asia,6,Richter,1
+2009-0547-MWI,2009,Natural,Earthquake,Malawi,Africa,6,Richter,1
+2009-0573-MWI,2009,Natural,Earthquake,Malawi,Africa,6,Richter,3
+2009-0404-PHL,2009,Natural,Earthquake,Philippines,Asia,6,Richter,
+2010-0093-TUR,2010,Natural,Earthquake,Turkey,Asia,6,Richter,51
+2010-0668-TWN,2010,Natural,Earthquake,Taiwan,Asia,6,Richter,
+2011-0243-KGZ,2011,Natural,Earthquake,Kyrgyzstan,Asia,6,Richter,
+2011-0068-NZL,2011,Natural,Earthquake,New Zealand,Oceania,6,Richter,181
+2011-0243-TJK,2011,Natural,Earthquake,Tajikistan,Asia,6,Richter,
+2011-0170-TUR,2011,Natural,Earthquake,Turkey,Asia,6,Richter,3
+2011-0243-UZB,2011,Natural,Earthquake,Uzbekistan,Asia,6,Richter,13
+2010-0574-SRB,2010,Natural,Earthquake,Serbia,Europe,6,Richter,2
+2011-0411-CHN,2011,Natural,Earthquake,China,Asia,6,Richter,
+2011-0601-CHN,2011,Natural,Earthquake,China,Asia,6,Richter,
+2011-0373-GTM,2011,Natural,Earthquake,Guatemala,Americas,6,Richter,3
+2012-0164-AFG,2012,Natural,Earthquake,Afghanistan,Asia,6,Richter,73
+2012-0191-AZE,2012,Natural,Earthquake,Azerbaijan,Asia,6,Richter,
+2012-0152-BGR,2012,Natural,Earthquake,Bulgaria,Europe,6,Richter,
+2012-0190-CHN,2012,Natural,Earthquake,China,Asia,6,Richter,4
+2012-0338-CHN,2012,Natural,Earthquake,China,Asia,6,Richter,
+2012-0350-CHN,2012,Natural,Earthquake,China,Asia,6,Richter,81
+2012-0604-CHN,2012,Natural,Earthquake,China,Asia,6,Richter,
+2012-0398-IDN,2012,Natural,Earthquake,Indonesia,Asia,6,Richter,6
+2013-0242-CHN,2013,Natural,Earthquake,China,Asia,6,Richter,95
+2013-0314-CHN,2013,Natural,Earthquake,China,Asia,6,Richter,3
+2013-0235-IDN,2013,Natural,Earthquake,Indonesia,Asia,6,Richter,48
+2013-0151-AFG,2013,Natural,Earthquake,Afghanistan,Asia,6,Richter,18
+2013-0405-GTM,2013,Natural,Earthquake,Guatemala,Americas,6,Richter,1
+2013-0020-IDN,2013,Natural,Earthquake,Indonesia,Asia,6,Richter,1
+2013-0140-IND,2013,Natural,Earthquake,India,Asia,6,Richter,3
+2014-0049-GRC,2014,Natural,Earthquake,Greece,Europe,6,Richter,
+2011-0388-NZL,2011,Natural,Earthquake,New Zealand,Oceania,6,Richter,1
+2011-0467-TUR,2011,Natural,Earthquake,Turkey,Asia,6,Richter,40
+2012-0275-IRN,2012,Natural,Earthquake,Iran,Asia,6,Richter,306
+2012-0502-IRN,2012,Natural,Earthquake,Iran,Asia,6,Richter,6
+2012-0142-ITA,2012,Natural,Earthquake,Italy,Europe,6,Richter,7
+2012-0162-ITA,2012,Natural,Earthquake,Italy,Europe,6,Richter,17
+2012-0020-PER,2012,Natural,Earthquake,Peru,Americas,6,Richter,
+2012-0321-PHL,2012,Natural,Earthquake,Philippines,Asia,6,Richter,
+2012-0151-TJK,2012,Natural,Earthquake,Tajikistan,Asia,6,Richter,2
+2013-0098-IRN,2013,Natural,Earthquake,Iran,Asia,6,Richter,37
+2013-0516-IRN,2013,Natural,Earthquake,Iran,Asia,6,Richter,8
+2013-0127-JPN,2013,Natural,Earthquake,Japan,Asia,6,Richter,
+2013-0206-TWN,2013,Natural,Earthquake,Taiwan,Asia,6,Richter,4
+2013-0561-TWN,2013,Natural,Earthquake,Taiwan,Asia,6,Richter,1
+2014-0281-CHN,2014,Natural,Earthquake,China,Asia,6,Richter,731
+2014-0173-CHN,2014,Natural,Earthquake,China,Asia,6,Richter,
+2014-0177-CHN,2014,Natural,Earthquake,China,Asia,6,Richter,
+2014-0449-CHN,2014,Natural,Earthquake,China,Asia,6,Richter,1
+2014-0464-CHN,2014,Natural,Earthquake,China,Asia,6,Richter,5
+2014-0544-CHN,2014,Natural,Earthquake,China,Asia,6,Richter,1
+2014-0298-DZA,2014,Natural,Earthquake,Algeria,Africa,6,Richter,6
+2015-0086-COL,2015,Natural,Earthquake,Colombia,Americas,6,Richter,
+2015-0571-AFG,2015,Natural,Earthquake,Afghanistan,Asia,6,Richter,
+2015-0271-CHN,2015,Natural,Earthquake,China,Asia,6,Richter,3
+2014-0287-IRN,2014,Natural,Earthquake,Iran,Asia,6,Richter,
+2014-0465-JPN,2014,Natural,Earthquake,Japan,Asia,6,Richter,
+2014-0159-THA,2014,Natural,Earthquake,Thailand,Asia,6,Richter,1
+2015-0216-MYS,2015,Natural,Earthquake,Malaysia,Asia,6,Richter,24
+2015-0512-KGZ,2015,Natural,Earthquake,Kyrgyzstan,Asia,6,Richter,
+2015-0571-PAK,2015,Natural,Earthquake,Pakistan,Asia,6,Richter,3
+2016-0019-IDN,2016,Natural,Earthquake,Indonesia,Asia,6,Richter,
+2016-0313-ITA,2016,Natural,Earthquake,Italy,Europe,6,Richter,296
+1904-0008-GRC,1904,Natural,Earthquake,Greece,Europe,6,Richter,4
+2014-0318-USA,2014,Natural,Earthquake,United States of America,Americas,6,Richter,1
+2015-0336-COD,2015,Natural,Earthquake,Congo,Africa,6,Richter,3
+2016-0043-TWN,2016,Natural,Earthquake,Taiwan,Asia,6,Richter,117
+2016-0329-TZA,2016,Natural,Earthquake,Tanzania,Africa,6,Richter,17
+2016-0329-UGA,2016,Natural,Earthquake,Uganda,Africa,6,Richter,4
+2016-0526-CHN,2016,Natural,Earthquake,China,Asia,6,Richter,
+2017-0182-GRC,2017,Natural,Earthquake,Greece,Europe,6,Richter,1
+2017-0513-CHN,2017,Natural,Earthquake,China,Asia,6,Richter,
+2019-0259-CHN,2019,Natural,Earthquake,China,Asia,6,Richter,13
+1903-0014-ISR,1903,Natural,Earthquake,Israel,Asia,6,Richter,20
+2016-0458-IDN,2016,Natural,Earthquake,Indonesia,Asia,6,Richter,
+2016-0357-ITA,2016,Natural,Earthquake,Italy,Europe,6,Richter,1
+2016-0492-JPN,2016,Natural,Earthquake,Japan,Asia,6,Richter,
+2016-0464-PER,2016,Natural,Earthquake,Peru,Americas,6,Richter,1
+2017-0140-PHL,2017,Natural,Earthquake,Philippines,Asia,6,Richter,
+2017-0204-IRN,2017,Natural,Earthquake,Iran,Asia,6,Richter,3
+2017-0451-KGZ,2017,Natural,Earthquake,Kyrgyzstan,Asia,6,Richter,
+2018-0360-HTI,2018,Natural,Earthquake,Haiti,Americas,6,Richter,17
+2018-0031-IDN,2018,Natural,Earthquake,Indonesia,Asia,6,Richter,1
+2018-0254-IDN,2018,Natural,Earthquake,Indonesia,Asia,6,Richter,14
+2018-0281-IRN,2018,Natural,Earthquake,Iran,Asia,6,Richter,
+2018-0310-IRN,2018,Natural,Earthquake,Iran,Asia,6,Richter,2
+2018-0426-IRN,2018,Natural,Earthquake,Iran,Asia,6,Richter,
+2018-0183-JPN,2018,Natural,Earthquake,Japan,Asia,6,Richter,5
+2019-0322-JPN,2019,Natural,Earthquake,Japan,Asia,6,Richter,
+2019-0109-IDN,2019,Natural,Earthquake,Indonesia,Asia,6,Richter,9
+2019-0299-IRN,2019,Natural,Earthquake,Iran,Asia,6,Richter,1
+2019-0162-PHL,2019,Natural,Earthquake,Philippines,Asia,6,Richter,25
+2019-0356-PHL,2019,Natural,Earthquake,Philippines,Asia,6,Richter,
+2019-0362-PHL,2019,Natural,Earthquake,Philippines,Asia,6,Richter,9
+1900-0009-TUR,1900,Natural,Earthquake,Turkey,Asia,6,Richter,140
+1903-0015-TUR,1903,Natural,Earthquake,Turkey,Asia,6,Richter,1000
+1904-0007-TWN,1904,Natural,Earthquake,Taiwan,Asia,6,Richter,3
+1904-0009-TWN,1904,Natural,Earthquake,Taiwan,Asia,6,Richter,145
+1920-0018-ALB,1920,Natural,Earthquake,Albania,Europe,6,Richter,200
+1920-0019-ARG,1920,Natural,Earthquake,Argentina,Americas,6,Richter,400
+1925-0014-CHN,1925,Natural,Earthquake,China,Asia,6,Richter,12
+1930-0034-ALB,1930,Natural,Earthquake,Albania,Europe,6,Richter,35
+1930-0029-CHN,1930,Natural,Earthquake,China,Asia,6,Richter,42
+1930-0031-CHN,1930,Natural,Earthquake,China,Asia,6,Richter,200
+1931-0018-ALB,1931,Natural,Earthquake,Albania,Europe,6,Richter,90
+1931-0019-ARM,1931,Natural,Earthquake,Armenia,Asia,6,Richter,2890
+1935-0032-CHN,1935,Natural,Earthquake,China,Asia,6,Richter,100
+1936-0030-CHN,1936,Natural,Earthquake,China,Asia,6,Richter,115
+1936-0032-CHN,1936,Natural,Earthquake,China,Asia,6,Richter,30
+1940-0032-CHN,1940,Natural,Earthquake,China,Asia,6,Richter,181
+1940-0034-CHN,1940,Natural,Earthquake,China,Asia,6,Richter,
+1941-0031-CHN,1941,Natural,Earthquake,China,Asia,6,Richter,132
+1941-0033-CHN,1941,Natural,Earthquake,China,Asia,6,Richter,15
+1942-0042-ALB,1942,Natural,Earthquake,Albania,Europe,6,Richter,43
+1945-0020-CHN,1945,Natural,Earthquake,China,Asia,6,Richter,17
+1951-0046-CHN,1951,Natural,Earthquake,China,Asia,6,Richter,
+1952-0041-CHN,1952,Natural,Earthquake,China,Asia,6,Richter,
+1955-0057-CRI,1955,Natural,Earthquake,Costa Rica,Americas,6,Richter,10
+1967-0132-CHN,1967,Natural,Earthquake,China,Asia,6,Richter,
+1972-0151-AFG,1972,Natural,Earthquake,Afghanistan,Asia,6,Richter,11
+1979-0301-CHN,1979,Natural,Earthquake,China,Asia,6,Richter,
+2018-0321-SLV,2018,Natural,Earthquake,El Salvador,Americas,6,Richter,
+2018-0059-TWN,2018,Natural,Earthquake,Taiwan,Asia,6,Richter,84
+2019-0444-ALB,2019,Natural,Earthquake,Albania,Europe,6,Richter,
+2019-0572-ALB,2019,Natural,Earthquake,Albania,Europe,6,Richter,51
+2021-0002-ARG,2021,Natural,Earthquake,Argentina,Americas,6,Richter,
+2021-0225-BTN,2021,Natural,Earthquake,Bhutan,Asia,6,Richter,
+2021-0293-CHN,2021,Natural,Earthquake,China,Asia,6,Richter,3
+1914-0030-GRC,1914,Natural,Earthquake,Greece,Europe,6,Richter,14
+1916-0016-TWN,1916,Natural,Earthquake,Taiwan,Asia,6,Richter,1
+1917-0021-TWN,1917,Natural,Earthquake,Taiwan,Asia,6,Richter,54
+1923-0025-IRN,1923,Natural,Earthquake,Iran,Asia,6,Richter,157
+1925-0015-IRN,1925,Natural,Earthquake,Iran,Asia,6,Richter,500
+1925-0009-TUR,1925,Natural,Earthquake,Turkey,Asia,6,Richter,200
+1925-0013-TUR,1925,Natural,Earthquake,Turkey,Asia,6,Richter,3
+1930-0033-ITA,1930,Natural,Earthquake,Italy,Europe,6,Richter,18
+1930-0032-TJK,1930,Natural,Earthquake,Tajikistan,Asia,6,Richter,175
+1930-0036-TWN,1930,Natural,Earthquake,Taiwan,Asia,6,Richter,4
+1930-0037-TWN,1930,Natural,Earthquake,Taiwan,Asia,6,Richter,
+1935-0029-IRN,1935,Natural,Earthquake,Iran,Asia,6,Richter,60
+1935-0030-IRN,1935,Natural,Earthquake,Iran,Asia,6,Richter,690
+1935-0031-TUR,1935,Natural,Earthquake,Turkey,Asia,6,Richter,540
+1936-0029-IRN,1936,Natural,Earthquake,Iran,Asia,6,Richter,12
+1940-0033-TUR,1940,Natural,Earthquake,Turkey,Asia,6,Richter,16
+1941-0030-IRN,1941,Natural,Earthquake,Iran,Asia,6,Richter,730
+1941-0032-TUR,1941,Natural,Earthquake,Turkey,Asia,6,Richter,430
+1941-0034-TUR,1941,Natural,Earthquake,Turkey,Asia,6,Richter,15
+1942-0043-TUR,1942,Natural,Earthquake,Turkey,Asia,6,Richter,16
+1943-0054-TUR,1943,Natural,Earthquake,Turkey,Asia,6,Richter,285
+1944-0046-TUR,1944,Natural,Earthquake,Turkey,Asia,6,Richter,21
+1945-0017-TUR,1945,Natural,Earthquake,Turkey,Asia,6,Richter,300
+1946-0028-TUR,1946,Natural,Earthquake,Turkey,Asia,6,Richter,12
+1961-0060-IRN,1961,Natural,Earthquake,Iran,Asia,6,Richter,60
+1965-0108-GRC,1965,Natural,Earthquake,Greece,Europe,6,Richter,32
+1966-0143-IND,1966,Natural,Earthquake,India,Asia,6,Richter,15
+1966-0141-TUR,1966,Natural,Earthquake,Turkey,Asia,6,Richter,10
+1967-0136-TUR,1967,Natural,Earthquake,Turkey,Asia,6,Richter,97
+1970-0134-TUR,1970,Natural,Earthquake,Turkey,Asia,6,Richter,
+1974-0169-PER,1974,Natural,Earthquake,Peru,Americas,6,Richter,10
+2019-0553-IRN,2019,Natural,Earthquake,Iran,Asia,6,Richter,6
+2019-0460-PAK,2019,Natural,Earthquake,Pakistan,Asia,6,Richter,39
+2019-0489-PHL,2019,Natural,Earthquake,Philippines,Asia,6,Richter,7
+2019-0479-TUR,2019,Natural,Earthquake,Turkey,Asia,6,Richter,1
+2020-0007-PRI,2020,Natural,Earthquake,Puerto Rico,Americas,6,Richter,4
+2020-0572-HRV,2020,Natural,Earthquake,Croatia,Europe,6,Richter,8
+2020-0225-IDN,2020,Natural,Earthquake,Indonesia,Asia,6,Richter,
+2020-0073-IRN,2020,Natural,Earthquake,Iran,Asia,6,Richter,
+2020-0073-TUR,2020,Natural,Earthquake,Turkey,Asia,6,Richter,9
+2020-0251-TUR,2020,Natural,Earthquake,Turkey,Asia,6,Richter,1
+2021-0003-IDN,2021,Natural,Earthquake,Indonesia,Asia,6,Richter,110
+2021-0323-IDN,2021,Natural,Earthquake,Indonesia,Asia,6,Richter,
+2021-0200-IDN,2021,Natural,Earthquake,Indonesia,Asia,6,Richter,9
+2021-0225-IND,2021,Natural,Earthquake,India,Asia,6,Richter,2
+2021-0095-IRN,2021,Natural,Earthquake,Iran,Asia,6,Richter,2
+2021-0215-IRN,2021,Natural,Earthquake,Iran,Asia,6,Richter,
+2021-0462-PER,2021,Natural,Earthquake,Peru,Americas,6,Richter,
+2021-0403-TJK,2021,Natural,Earthquake,Tajikistan,Asia,6,Richter,5
+1925-0012-USA,1925,Natural,Earthquake,United States of America,Americas,6,Richter,13
+1973-0148-USA,1973,Natural,Earthquake,United States of America,Americas,6,Richter,
+1975-0155-USA,1975,Natural,Earthquake,United States of America,Americas,6,Richter,
+1964-0016-AZO,1964,Natural,Earthquake,Azores Islands,Europe,5,Richter,
+1967-0131-FRA,1967,Natural,Earthquake,France,Europe,5,Richter,1
+1970-0112-IND,1970,Natural,Earthquake,India,Asia,5,Richter,26
+1943-0007-PER,1943,Natural,Earthquake,Peru,Americas,5,Richter,200
+1952-0009-TUR,1952,Natural,Earthquake,Turkey,Asia,5,Richter,20
+1963-0001-LBY,1963,Natural,Earthquake,Libya,Africa,5,Richter,300
+1968-0042-IRN,1968,Natural,Earthquake,Iran,Asia,5,Richter,38
+1968-0018-NIC,1968,Natural,Earthquake,Nicaragua,Americas,5,Richter,
+1971-0014-ITA,1971,Natural,Earthquake,Italy,Europe,5,Richter,22
+1972-0084-ITA,1972,Natural,Earthquake,Italy,Europe,5,Richter,1
+1976-0029-TUR,1976,Natural,Earthquake,Turkey,Asia,5,Richter,2
+1976-0056-TUR,1976,Natural,Earthquake,Turkey,Asia,5,Richter,4
+1977-0071-IRN,1977,Natural,Earthquake,Iran,Asia,5,Richter,3
+1977-0140-IRN,1977,Natural,Earthquake,Iran,Asia,5,Richter,3
+1977-0052-TUR,1977,Natural,Earthquake,Turkey,Asia,5,Richter,30
+1968-0082-YUG,1968,Natural,Earthquake,Yugoslavia,Europe,5,Richter,1
+1979-0094-GTM,1979,Natural,Earthquake,Guatemala,Americas,5,Richter,
+1979-0063-CHN,1979,Natural,Earthquake,China,Asia,5,Richter,42
+1981-0091-COL,1981,Natural,Earthquake,Colombia,Americas,5,Richter,10
+1983-0146-BEL,1983,Natural,Earthquake,Belgium,Europe,5,Richter,2
+1983-0144-CHN,1983,Natural,Earthquake,China,Asia,5,Richter,34
+1983-0059-COL,1983,Natural,Earthquake,Colombia,Americas,5,Richter,250
+1985-0120-GTM,1985,Natural,Earthquake,Guatemala,Americas,5,Richter,
+1986-0140-BGR,1986,Natural,Earthquake,Bulgaria,Europe,5,Richter,3
+1986-0141-BRA,1986,Natural,Earthquake,Brazil,Americas,5,Richter,1
+1986-0170-GTM,1986,Natural,Earthquake,Guatemala,Americas,5,Richter,
+1987-0149-CHN,1987,Natural,Earthquake,China,Asia,5,Richter,
+1988-0042-DZA,1988,Natural,Earthquake,Algeria,Africa,5,Richter,
+1980-0109-IRN,1980,Natural,Earthquake,Iran,Asia,5,Richter,4
+1980-0100-PER,1980,Natural,Earthquake,Peru,Americas,5,Richter,7
+1981-0123-ITA,1981,Natural,Earthquake,Italy,Europe,5,Richter,
+1981-0224-ITA,1981,Natural,Earthquake,Italy,Europe,5,Richter,12
+1981-0057-PER,1981,Natural,Earthquake,Peru,Americas,5,Richter,10
+1981-0211-PER,1981,Natural,Earthquake,Peru,Americas,5,Richter,8
+1982-0031-IDN,1982,Natural,Earthquake,Indonesia,Asia,5,Richter,
+1982-0141-HND,1982,Natural,Earthquake,Honduras,Americas,5,Richter,
+1983-0058-IRN,1983,Natural,Earthquake,Iran,Asia,5,Richter,30
+1983-0437-JPN,1983,Natural,Earthquake,Japan,Asia,5,Richter,1
+1983-0070-PER,1983,Natural,Earthquake,Peru,Americas,5,Richter,10
+1984-0072-IDN,1984,Natural,Earthquake,Indonesia,Asia,5,Richter,
+1984-0047-ITA,1984,Natural,Earthquake,Italy,Europe,5,Richter,3
+1985-0027-IRN,1985,Natural,Earthquake,Iran,Asia,5,Richter,1
+1986-0372-IND,1986,Natural,Earthquake,India,Asia,5,Richter,6
+1986-0186-PAK,1986,Natural,Earthquake,Pakistan,Asia,5,Richter,
+1986-0150-PER,1986,Natural,Earthquake,Peru,Americas,5,Richter,1
+1987-0101-IRN,1987,Natural,Earthquake,Iran,Asia,5,Richter,2
+1978-0263-TUR,1978,Natural,Earthquake,Turkey,Asia,5,Richter,
+1980-0184-VEN,1980,Natural,Earthquake,Venezuela,Americas,5,Richter,
+1983-0066-SUN,1983,Natural,Earthquake,Soviet Union,Europe,5,Richter,
+1983-0174-USA,1983,Natural,Earthquake,United States of America,Americas,5,Richter,
+1983-0408-YUG,1983,Natural,Earthquake,Yugoslavia,Europe,5,Richter,12
+1984-0413-TUR,1984,Natural,Earthquake,Turkey,Asia,5,Richter,3
+1985-0193-YUG,1985,Natural,Earthquake,Yugoslavia,Europe,5,Richter,
+1989-0142-AUS,1989,Natural,Earthquake,Australia,Oceania,5,Richter,12
+1989-0071-BGD,1989,Natural,Earthquake,Bangladesh,Asia,5,Richter,1
+1989-0136-CHN,1989,Natural,Earthquake,China,Asia,5,Richter,29
+1989-0225-CHN,1989,Natural,Earthquake,China,Asia,5,Richter,4
+1990-0230-ECU,1990,Natural,Earthquake,Ecuador,Americas,5,Richter,4
+1991-0498-AFG,1991,Natural,Earthquake,Afghanistan,Asia,5,Richter,24
+1991-0293-CRI,1991,Natural,Earthquake,Costa Rica,Americas,5,Richter,
+1992-0012-DZA,1992,Natural,Earthquake,Algeria,Africa,5,Richter,
+1993-0582-CHN,1993,Natural,Earthquake,China,Asia,5,Richter,
+1989-0045-IDN,1989,Natural,Earthquake,Indonesia,Asia,5,Richter,
+1990-0193-GBR,1990,Natural,Earthquake,United Kingdom,Europe,5,Richter,
+1990-0217-GRC,1990,Natural,Earthquake,Greece,Europe,5,Richter,
+1990-0105-ITA,1990,Natural,Earthquake,Italy,Europe,5,Richter,2
+1990-0250-ITA,1990,Natural,Earthquake,Italy,Europe,5,Richter,19
+1991-0230-GTM,1991,Natural,Earthquake,Guatemala,Americas,5,Richter,14
+1991-0173-PER,1991,Natural,Earthquake,Peru,Americas,5,Richter,11
+1991-0284-IRN,1991,Natural,Earthquake,Iran,Asia,5,Richter,
+1992-0180-IRN,1992,Natural,Earthquake,Iran,Asia,5,Richter,5
+1992-0247-IDN,1992,Natural,Earthquake,Indonesia,Asia,5,Richter,
+1993-0136-GRC,1993,Natural,Earthquake,Greece,Europe,5,Richter,1
+1993-0579-GRC,1993,Natural,Earthquake,Greece,Europe,5,Richter,
+1993-0581-IND,1993,Natural,Earthquake,India,Asia,5,Richter,
+1993-0578-IRN,1993,Natural,Earthquake,Iran,Asia,5,Richter,
+1993-0580-NPL,1993,Natural,Earthquake,Nepal,Asia,5,Richter,
+1989-0027-SUN,1989,Natural,Earthquake,Soviet Union,Europe,5,Richter,274
+1989-0067-VEN,1989,Natural,Earthquake,Venezuela,Americas,5,Richter,
+1990-0601-SUN,1990,Natural,Earthquake,Soviet Union,Europe,5,Richter,
+1991-0498-SUN,1991,Natural,Earthquake,Soviet Union,Europe,5,Richter,1
+1994-0642-AUS,1994,Natural,Earthquake,Australia,Oceania,5,Richter,
+1997-0531-CHN,1997,Natural,Earthquake,China,Asia,5,Richter,2
+1995-0054-COL,1995,Natural,Earthquake,Colombia,Americas,5,Richter,8
+1995-0047-ECU,1995,Natural,Earthquake,Ecuador,Americas,5,Richter,1
+1995-0449-JPN,1995,Natural,Earthquake,Japan,Asia,5,Richter,
+1998-0078-ITA,1998,Natural,Earthquake,Italy,Europe,5,Richter,
+1994-0599-USA,1994,Natural,Earthquake,United States of America,Americas,5,Richter,
+1997-0534-ZAF,1997,Natural,Earthquake,South Africa,Africa,5,Richter,15
+1998-0207-TUR,1998,Natural,Earthquake,Turkey,Asia,5,Richter,
+1998-0584-ALB,1998,Natural,Earthquake,Albania,Europe,5,Richter,
+1998-0454-CHN,1998,Natural,Earthquake,China,Asia,5,Richter,
+1998-0580-CHN,1998,Natural,Earthquake,China,Asia,5,Richter,
+1998-0587-CHN,1998,Natural,Earthquake,China,Asia,5,Richter,
+1999-0196-AZE,1999,Natural,Earthquake,Azerbaijan,Asia,5,Richter,1
+1999-0228-BGD,1999,Natural,Earthquake,Bangladesh,Asia,5,Richter,6
+1999-0383-CHN,1999,Natural,Earthquake,China,Asia,5,Richter,
+1999-0553-CHN,1999,Natural,Earthquake,China,Asia,5,Richter,
+2000-0036-CHN,2000,Natural,Earthquake,China,Asia,5,Richter,1
+2000-0041-CHN,2000,Natural,Earthquake,China,Asia,5,Richter,
+2000-0527-CHN,2000,Natural,Earthquake,China,Asia,5,Richter,1
+1998-0385-IRN,1998,Natural,Earthquake,Iran,Asia,5,Richter,5
+1998-0585-IRN,1998,Natural,Earthquake,Iran,Asia,5,Richter,
+1999-0587-IRN,1999,Natural,Earthquake,Iran,Asia,5,Richter,
+2000-0449-IDN,2000,Natural,Earthquake,Indonesia,Asia,5,Richter,
+2000-0051-IRN,2000,Natural,Earthquake,Iran,Asia,5,Richter,1
+2000-0065-IRN,2000,Natural,Earthquake,Iran,Asia,5,Richter,
+2000-0387-NIC,2000,Natural,Earthquake,Nicaragua,Americas,5,Richter,7
+1998-0588-TUR,1998,Natural,Earthquake,Turkey,Asia,5,Richter,2
+1999-0376-TUR,1999,Natural,Earthquake,Turkey,Asia,5,Richter,
+1999-0386-TUR,1999,Natural,Earthquake,Turkey,Asia,5,Richter,1
+2000-0743-TJK,2000,Natural,Earthquake,Tajikistan,Asia,5,Richter,
+2000-0272-TUR,2000,Natural,Earthquake,Turkey,Asia,5,Richter,1
+2000-0598-USA,2000,Natural,Earthquake,United States of America,Americas,5,Richter,
+2001-0233-AFG,2001,Natural,Earthquake,Afghanistan,Asia,5,Richter,4
+2001-0389-CHN,2001,Natural,Earthquake,China,Asia,5,Richter,
+2001-0546-IDN,2001,Natural,Earthquake,Indonesia,Asia,5,Richter,
+2001-0750-IRN,2001,Natural,Earthquake,Iran,Asia,5,Richter,
+2002-0247-GEO,2002,Natural,Earthquake,Georgia,Asia,5,Richter,6
+2002-0655-CHN,2002,Natural,Earthquake,China,Asia,5,Richter,
+2002-0107-IRN,2002,Natural,Earthquake,Iran,Asia,5,Richter,1
+2002-0246-IRN,2002,Natural,Earthquake,Iran,Asia,5,Richter,2
+2002-0804-IRN,2002,Natural,Earthquake,Iran,Asia,5,Richter,
+2003-0068-IRN,2003,Natural,Earthquake,Iran,Asia,5,Richter,
+2001-0748-TUR,2001,Natural,Earthquake,Turkey,Asia,5,Richter,
+2002-0692-PAK,2002,Natural,Earthquake,Pakistan,Asia,5,Richter,17
+2002-0042-RWA,2002,Natural,Earthquake,Rwanda,Africa,5,Richter,45
+2002-0015-TJK,2002,Natural,Earthquake,Tajikistan,Asia,5,Richter,3
+2003-0236-AFG,2003,Natural,Earthquake,Afghanistan,Asia,5,Richter,1
+2004-0436-AFG,2004,Natural,Earthquake,Afghanistan,Asia,5,Richter,2
+2004-0671-BDI,2004,Natural,Earthquake,Burundi,Africa,5,Richter,3
+2003-0184-ITA,2003,Natural,Earthquake,Italy,Europe,5,Richter,
+2003-0402-CHN,2003,Natural,Earthquake,China,Asia,5,Richter,4
+2003-0546-CHN,2003,Natural,Earthquake,China,Asia,5,Richter,1
+2003-0596-CHN,2003,Natural,Earthquake,China,Asia,5,Richter,
+2003-0322-IRN,2003,Natural,Earthquake,Iran,Asia,5,Richter,
+2003-0649-IRN,2003,Natural,Earthquake,Iran,Asia,5,Richter,
+2004-0406-CHN,2004,Natural,Earthquake,China,Asia,5,Richter,4
+2004-0522-CHN,2004,Natural,Earthquake,China,Asia,5,Richter,
+2004-0571-CHN,2004,Natural,Earthquake,China,Asia,5,Richter,
+2004-0426-COL,2004,Natural,Earthquake,Colombia,Americas,5,Richter,1
+2004-0669-DEU,2004,Natural,Earthquake,Germany,Europe,5,Richter,
+2004-0011-DZA,2004,Natural,Earthquake,Algeria,Africa,5,Richter,
+2004-0620-DZA,2004,Natural,Earthquake,Algeria,Africa,5,Richter,
+2004-0088-IDN,2004,Natural,Earthquake,Indonesia,Asia,5,Richter,5
+2005-0016-IRN,2005,Natural,Earthquake,Iran,Asia,5,Richter,
+2003-0411-PAN,2003,Natural,Earthquake,Panama,Americas,5,Richter,
+2003-0648-TUR,2003,Natural,Earthquake,Turkey,Asia,5,Richter,
+2004-0670-SVN,2004,Natural,Earthquake,Slovenia,Europe,5,Richter,1
+2004-0250-RUS,2004,Natural,Earthquake,Russia,Europe,5,Richter,
+2004-0308-TUR,2004,Natural,Earthquake,Turkey,Asia,5,Richter,18
+2005-0132-ZAF,2005,Natural,Earthquake,South Africa,Africa,5,Richter,2
+2005-0651-CHN,2005,Natural,Earthquake,China,Asia,5,Richter,16
+2005-0740-CHN,2005,Natural,Earthquake,China,Asia,5,Richter,
+2006-0475-CHN,2006,Natural,Earthquake,China,Asia,5,Richter,1
+2006-0148-BGR,2006,Natural,Earthquake,Bulgaria,Europe,5,Richter,
+2006-0061-CHN,2006,Natural,Earthquake,China,Asia,5,Richter,
+2006-0397-CHN,2006,Natural,Earthquake,China,Asia,5,Richter,22
+2006-0464-CHN,2006,Natural,Earthquake,China,Asia,5,Richter,
+2006-0586-CHN,2006,Natural,Earthquake,China,Asia,5,Richter,
+2006-0620-CHN,2006,Natural,Earthquake,China,Asia,5,Richter,
+2006-0149-DZA,2006,Natural,Earthquake,Algeria,Africa,5,Richter,4
+2006-0239-IRN,2006,Natural,Earthquake,Iran,Asia,5,Richter,
+2005-0240-SLV,2005,Natural,Earthquake,El Salvador,Americas,5,Richter,1
+2007-0653-BRA,2007,Natural,Earthquake,Brazil,Americas,5,Richter,1
+2007-0692-GBR,2007,Natural,Earthquake,United Kingdom,Europe,5,Richter,
+2007-0461-HND,2007,Natural,Earthquake,Honduras,Americas,5,Richter,
+2007-0485-IDN,2007,Natural,Earthquake,Indonesia,Asia,5,Richter,
+2008-0588-CHN,2008,Natural,Earthquake,China,Asia,5,Richter,
+2008-0403-IDN,2008,Natural,Earthquake,Indonesia,Asia,5,Richter,2
+2009-0156-AFG,2009,Natural,Earthquake,Afghanistan,Asia,5,Richter,22
+2009-0059-CHN,2009,Natural,Earthquake,China,Asia,5,Richter,
+2007-0287-TJK,2007,Natural,Earthquake,Tajikistan,Asia,5,Richter,11
+2007-0654-JPN,2007,Natural,Earthquake,Japan,Asia,5,Richter,
+2008-0178-IRN,2008,Natural,Earthquake,Iran,Asia,5,Richter,
+2009-0493-IRN,2009,Natural,Earthquake,Iran,Asia,5,Richter,
+2010-0064-CHN,2010,Natural,Earthquake,China,Asia,5,Richter,1
+2010-0087-CHN,2010,Natural,Earthquake,China,Asia,5,Richter,
+2010-0673-CHN,2010,Natural,Earthquake,China,Asia,5,Richter,
+2010-0018-IRN,2010,Natural,Earthquake,Iran,Asia,5,Richter,
+2010-0591-IRN,2010,Natural,Earthquake,Iran,Asia,5,Richter,
+2011-0030-CHN,2011,Natural,Earthquake,China,Asia,5,Richter,
+2011-0159-ESP,2011,Natural,Earthquake,Spain,Europe,5,Richter,10
+2010-0002-TJK,2010,Natural,Earthquake,Tajikistan,Asia,5,Richter,
+2011-0387-CHN,2011,Natural,Earthquake,China,Asia,5,Richter,
+2012-0545-AZE,2012,Natural,Earthquake,Azerbaijan,Asia,5,Richter,
+2012-0397-CHN,2012,Natural,Earthquake,China,Asia,5,Richter,1
+2012-0536-CHN,2012,Natural,Earthquake,China,Asia,5,Richter,
+2013-0081-CHN,2013,Natural,Earthquake,China,Asia,5,Richter,
+2013-0470-CHN,2013,Natural,Earthquake,China,Asia,5,Richter,
+2013-0555-CHN,2013,Natural,Earthquake,China,Asia,5,Richter,
+2013-0563-CHN,2013,Natural,Earthquake,China,Asia,5,Richter,
+2013-0581-CHN,2013,Natural,Earthquake,China,Asia,5,Richter,
+2013-0436-IDN,2013,Natural,Earthquake,Indonesia,Asia,5,Richter,1
+2011-0445-PHL,2011,Natural,Earthquake,Philippines,Asia,5,Richter,
+2012-0597-IRN,2012,Natural,Earthquake,Iran,Asia,5,Richter,
+2014-0054-IRN,2014,Natural,Earthquake,Iran,Asia,5,Richter,1
+2014-0258-COM,2014,Natural,Earthquake,Comoros,Africa,5,Richter,
+2014-0288-ECU,2014,Natural,Earthquake,Ecuador,Americas,5,Richter,3
+2014-0129-CHN,2014,Natural,Earthquake,China,Asia,5,Richter,
+2015-0078-CHN,2015,Natural,Earthquake,China,Asia,5,Richter,
+2015-0125-CHN,2015,Natural,Earthquake,China,Asia,5,Richter,
+2014-0334-PER,2014,Natural,Earthquake,Peru,Americas,5,Richter,8
+2016-0341-KOR,2016,Natural,Earthquake,Korea,Asia,5,Richter,
+2016-0335-MKD,2016,Natural,Earthquake,Macedonia,Europe,5,Richter,
+2016-0298-PER,2016,Natural,Earthquake,Peru,Americas,5,Richter,4
+1905-0010-CHN,1905,Natural,Earthquake,China,Asia,5,Richter,
+2014-0311-ZAF,2014,Natural,Earthquake,South Africa,Africa,5,Richter,1
+2016-0251-TJK,2016,Natural,Earthquake,Tajikistan,Asia,5,Richter,
+2016-0536-CHN,2016,Natural,Earthquake,China,Asia,5,Richter,2
+2017-0113-CHN,2017,Natural,Earthquake,China,Asia,5,Richter,
+2017-0124-CHN,2017,Natural,Earthquake,China,Asia,5,Richter,8
+2018-0215-CHN,2018,Natural,Earthquake,China,Asia,5,Richter,
+2018-0323-CHN,2018,Natural,Earthquake,China,Asia,5,Richter,
+2019-0232-ALB,2019,Natural,Earthquake,Albania,Europe,5,Richter,
+2019-0096-CHN,2019,Natural,Earthquake,China,Asia,5,Richter,2
+2017-0015-ITA,2017,Natural,Earthquake,Italy,Europe,5,Richter,29
+2017-0521-IRN,2017,Natural,Earthquake,Iran,Asia,5,Richter,2
+2017-0443-KOR,2017,Natural,Earthquake,Korea,Asia,5,Richter,
+2019-0085-IDN,2019,Natural,Earthquake,Indonesia,Asia,5,Richter,
+1923-0027-COL,1923,Natural,Earthquake,Colombia,Americas,5,Richter,300
+1930-0035-ALB,1930,Natural,Earthquake,Albania,Europe,5,Richter,25
+1933-0026-CHN,1933,Natural,Earthquake,China,Asia,5,Richter,200
+1967-0135-DZA,1967,Natural,Earthquake,Algeria,Africa,5,Richter,10
+2016-0493-USA,2016,Natural,Earthquake,United States of America,Americas,5,Richter,
+2019-0425-CHN,2019,Natural,Earthquake,China,Asia,5,Richter,1
+2019-0520-CHN,2019,Natural,Earthquake,China,Asia,5,Richter,1
+2019-0551-FRA,2019,Natural,Earthquake,France,Europe,5,Richter,
+2020-0244-CHN,2020,Natural,Earthquake,China,Asia,5,Richter,4
+2020-0579-DZA,2020,Natural,Earthquake,Algeria,Africa,5,Richter,
+2021-0201-CHN,2021,Natural,Earthquake,China,Asia,5,Richter,3
+2021-0329-CHN,2021,Natural,Earthquake,China,Asia,5,Richter,
+1914-0028-ITA,1914,Natural,Earthquake,Italy,Europe,5,Richter,120
+1924-0009-TUR,1924,Natural,Earthquake,Turkey,Asia,5,Richter,50
+1932-0016-IRN,1932,Natural,Earthquake,Iran,Asia,5,Richter,1070
+1944-0045-IRN,1944,Natural,Earthquake,Iran,Asia,5,Richter,20
+1965-0107-IRN,1965,Natural,Earthquake,Iran,Asia,5,Richter,20
+1966-0142-TUR,1966,Natural,Earthquake,Turkey,Asia,5,Richter,12
+1970-0133-PER,1970,Natural,Earthquake,Peru,Americas,5,Richter,12
+1971-0140-IDN,1971,Natural,Earthquake,Indonesia,Asia,5,Richter,1
+1979-0300-TUR,1979,Natural,Earthquake,Turkey,Asia,5,Richter,
+2020-0158-PRI,2020,Natural,Earthquake,Puerto Rico,Americas,5,Richter,
+2020-0106-HRV,2020,Natural,Earthquake,Croatia,Europe,5,Richter,1
+2020-0279-TUR,2020,Natural,Earthquake,Turkey,Asia,5,Richter,
+1987-0306-DZA,1987,Natural,Earthquake,Algeria,Africa,4,Richter,1
+1981-0127-PAK,1981,Natural,Earthquake,Pakistan,Asia,4,Richter,6
+1982-0106-ITA,1982,Natural,Earthquake,Italy,Europe,4,Richter,
+1985-0194-TUR,1985,Natural,Earthquake,Turkey,Asia,4,Richter,
+1993-0184-CRI,1993,Natural,Earthquake,Costa Rica,Americas,4,Richter,3
+1990-0703-USA,1990,Natural,Earthquake,United States of America,Americas,4,Richter,
+1990-0704-ZAF,1990,Natural,Earthquake,South Africa,Africa,4,Richter,10
+1991-0682-YEM,1991,Natural,Earthquake,Yemen,Asia,4,Richter,10
+1997-0368-ARM,1997,Natural,Earthquake,Armenia,Asia,4,Richter,
+2000-0023-BGD,2000,Natural,Earthquake,Bangladesh,Asia,4,Richter,
+1998-0586-NIC,1998,Natural,Earthquake,Nicaragua,Americas,4,Richter,
+1999-0434-PER,1999,Natural,Earthquake,Peru,Americas,4,Richter,
+2001-0005-TZA,2001,Natural,Earthquake,Tanzania,Africa,4,Richter,
+2002-0545-EGY,2002,Natural,Earthquake,Egypt,Africa,4,Richter,
+2002-0680-ITA,2002,Natural,Earthquake,Italy,Europe,4,Richter,
+2004-0147-TJK,2004,Natural,Earthquake,Tajikistan,Asia,4,Richter,
+2006-0699-SLV,2006,Natural,Earthquake,El Salvador,Americas,4,Richter,
+2010-0667-CHN,2010,Natural,Earthquake,China,Asia,4,Richter,8
+2013-0121-HUN,2013,Natural,Earthquake,Hungary,Europe,4,Richter,
+2017-0349-ITA,2017,Natural,Earthquake,Italy,Europe,4,Richter,2
+1972-0150-ITA,1972,Natural,Earthquake,Italy,Europe,4,Richter,2
+1982-0410-MEX,1982,Natural,Earthquake,Mexico,Americas,4,Richter,10
+1928-0012-IDN,1928,Natural,Earthquake,Indonesia,Asia,3,Richter,128
+1999-0047-RUS,1999,Natural,Earthquake,Russia,Europe,3,Richter,
+1966-0039-UGA,1966,Natural,Earthquake,Uganda,Africa,1,Richter,104
+1910-0004-CRI,1910,Natural,Earthquake,Costa Rica,Americas,,Richter,1750
+1924-0007-IDN,1924,Natural,Earthquake,Indonesia,Asia,,Richter,727
+1926-0014-EGY,1926,Natural,Earthquake,Egypt,Africa,,Richter,12
+1928-0007-BGR,1928,Natural,Earthquake,Bulgaria,Europe,,Richter,107
+1928-0003-CHL,1928,Natural,Earthquake,Chile,Americas,,Richter,220
+1928-0001-GRC,1928,Natural,Earthquake,Greece,Europe,,Richter,103
+1936-0011-IDN,1936,Natural,Earthquake,Indonesia,Asia,,Richter,17
+1942-0021-CHN,1942,Natural,Earthquake,China,Asia,,Richter,30
+1942-0001-ECU,1942,Natural,Earthquake,Ecuador,Americas,,Richter,200
+1946-0001-DZA,1946,Natural,Earthquake,Algeria,Africa,,Richter,276
+1950-0028-COL,1950,Natural,Earthquake,Colombia,Americas,,Richter,211
+1952-0010-HTI,1952,Natural,Earthquake,Haiti,Americas,,Richter,6
+1954-0009-AFG,1954,Natural,Earthquake,Afghanistan,Asia,,Richter,2000
+1956-0056-ESP,1956,Natural,Earthquake,Spain,Europe,,Richter,11
+1958-0010-CHL,1958,Natural,Earthquake,Chile,Americas,,Richter,
+1976-0055-CHN,1976,Natural,Earthquake,China,Asia,,Richter,
+1976-0026-CUB,1976,Natural,Earthquake,Cuba,Americas,,Richter,1
+1976-0068-ECU,1976,Natural,Earthquake,Ecuador,Americas,,Richter,10
+1977-0251-IDN,1977,Natural,Earthquake,Indonesia,Asia,,Richter,2
+1908-0006-ROU,1908,Natural,Earthquake,Romania,Europe,,Richter,
+1909-0014-MAR,1909,Natural,Earthquake,Morocco,Africa,,Richter,100
+1928-0006-ROU,1928,Natural,Earthquake,Romania,Europe,,Richter,
+1928-0005-TUR,1928,Natural,Earthquake,Turkey,Asia,,Richter,50
+1934-0006-ROU,1934,Natural,Earthquake,Romania,Europe,,Richter,
+1940-0007-TUR,1940,Natural,Earthquake,Turkey,Asia,,Richter,37
+1945-0003-ROU,1945,Natural,Earthquake,Romania,Europe,,Richter,
+1945-0008-ROU,1945,Natural,Earthquake,Romania,Europe,,Richter,
+1948-0001-IRN,1948,Natural,Earthquake,Iran,Asia,,Richter,200
+1952-0036-SUN,1952,Natural,Earthquake,Soviet Union,Europe,,Richter,
+1952-0036-USA,1952,Natural,Earthquake,United States of America,Americas,,Richter,
+1957-0027-IRN,1957,Natural,Earthquake,Iran,Asia,,Richter,44
+1960-0016-JPN,1960,Natural,Earthquake,Japan,Asia,,Richter,138
+1960-0015-PHL,1960,Natural,Earthquake,Philippines,Asia,,Richter,32
+1964-0027-TZA,1964,Natural,Earthquake,Tanzania,Africa,,Richter,4
+1966-0042-SUN,1966,Natural,Earthquake,Soviet Union,Europe,,Richter,10
+1966-0058-TUR,1966,Natural,Earthquake,Turkey,Asia,,Richter,14
+1968-0061-PHL,1968,Natural,Earthquake,Philippines,Asia,,Richter,271
+1970-0004-PHL,1970,Natural,Earthquake,Philippines,Asia,,Richter,14
+1976-0195-ITA,1976,Natural,Earthquake,Italy,Europe,,Richter,12
+1967-0074-YUG,1967,Natural,Earthquake,Yugoslavia,Europe,,Richter,7
+1979-0259-FRA,1979,Natural,Earthquake,France,Europe,,Richter,11
+1979-0066-IDN,1979,Natural,Earthquake,Indonesia,Asia,,Richter,539
+1980-0088-IDN,1980,Natural,Earthquake,Indonesia,Asia,,Richter,
+1982-0035-ITA,1982,Natural,Earthquake,Italy,Europe,,Richter,
+1982-0307-POL,1982,Natural,Earthquake,Poland,Europe,,Richter,
+1983-0112-ITA,1983,Natural,Earthquake,Italy,Europe,,Richter,
+1984-0274-ITA,1984,Natural,Earthquake,Italy,Europe,,Richter,1
+1983-0514-USA,1983,Natural,Earthquake,United States of America,Americas,,Richter,2
+1984-0086-TUR,1984,Natural,Earthquake,Turkey,Asia,,Richter,3
+1986-0133-TWN,1986,Natural,Earthquake,Taiwan,Asia,,Richter,13
+1988-0369-UGA,1988,Natural,Earthquake,Uganda,Africa,,Richter,
+1989-0290-IRN,1989,Natural,Earthquake,Iran,Asia,,Richter,
+1990-0214-PNG,1990,Natural,Earthquake,Papua New Guinea,Oceania,,Richter,
+1990-0033-UGA,1990,Natural,Earthquake,Uganda,Africa,,Richter,
+1996-0020-AFG,1996,Natural,Earthquake,Afghanistan,Asia,,Richter,
+1996-0042-PER,1996,Natural,Earthquake,Peru,Americas,,Richter,7
+1996-0461-TUR,1996,Natural,Earthquake,Turkey,Asia,,Richter,
+2018-0316-PNG,2018,Natural,Earthquake,Papua New Guinea,Oceania,,Richter,11
+1903-0013-TUR,1903,Natural,Earthquake,Turkey,Asia,,Richter,1700
+1910-0024-CRI,1910,Natural,Earthquake,Costa Rica,Americas,,Richter,700
+1936-0031-COL,1936,Natural,Earthquake,Colombia,Americas,,Richter,18
+1937-0023-CHN,1937,Natural,Earthquake,China,Asia,,Richter,390
+1952-0042-CRI,1952,Natural,Earthquake,Costa Rica,Americas,,Richter,29
+1914-0031-PER,1914,Natural,Earthquake,Peru,Americas,,Richter,34
+1922-0015-JPN,1922,Natural,Earthquake,Japan,Asia,,Richter,27
+1924-0012-IDN,1924,Natural,Earthquake,Indonesia,Asia,,Richter,60
+1930-0030-MMR,1930,Natural,Earthquake,Myanmar,Asia,,Richter,50
+1930-0028-NIC,1930,Natural,Earthquake,Nicaragua,Americas,,Richter,1000
+1932-0019-IDN,1932,Natural,Earthquake,Indonesia,Asia,,Richter,
+1933-0027-ITA,1933,Natural,Earthquake,Italy,Europe,,Richter,10
+1934-0020-TUR,1934,Natural,Earthquake,Turkey,Asia,,Richter,100
+1934-0021-TUR,1934,Natural,Earthquake,Turkey,Asia,,Richter,20
+1936-0034-SLV,1936,Natural,Earthquake,El Salvador,Americas,,Richter,400
+1939-0027-PER,1939,Natural,Earthquake,Peru,Americas,,Richter,37
+1942-0044-TUR,1942,Natural,Earthquake,Turkey,Asia,,Richter,17
+1943-0055-TUR,1943,Natural,Earthquake,Turkey,Asia,,Richter,550
+1945-0018-IRN,1945,Natural,Earthquake,Iran,Asia,,Richter,20
+1945-0019-TUR,1945,Natural,Earthquake,Turkey,Asia,,Richter,300
+1950-0034-IRN,1950,Natural,Earthquake,Iran,Asia,,Richter,20
+1950-0035-TUR,1950,Natural,Earthquake,Turkey,Asia,,Richter,20
+1951-0043-PNG,1951,Natural,Earthquake,Papua New Guinea,Oceania,,Richter,3000
+1952-0039-TUR,1952,Natural,Earthquake,Turkey,Asia,,Richter,94
+1953-0063-IRN,1953,Natural,Earthquake,Iran,Asia,,Richter,11
+1953-0064-TUR,1953,Natural,Earthquake,Turkey,Asia,,Richter,37
+1954-0073-GRC,1954,Natural,Earthquake,Greece,Europe,,Richter,25
+1955-0056-GRC,1955,Natural,Earthquake,Greece,Europe,,Richter,8
+1955-0055-PAK,1955,Natural,Earthquake,Pakistan,Asia,,Richter,12
+1976-0196-ITA,1976,Natural,Earthquake,Italy,Europe,,Richter,11
+1943-0052-YUG,1943,Natural,Earthquake,Yugoslavia,Europe,,Richter,19

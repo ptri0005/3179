@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Top 10 Intense Storms",
+    "data": {
+      "url": "data/storms.csv"
+    },
+    "width":"container",
+      
+    "mark": "bar",
+    "encoding": {
+  
+      
+      "x": {
+        "field": "Name",
+        "type": "nominal",
+        "title": "Storm",
+        "sort": "-y"
+      },
+      "y": {
+          "aggregate": "Max",
+        "field": "Kph",
+        "type": "quantitative",
+        "title": "Kph"
+      },
+      "color": {
+        "type": "nominal",
+        "field": "Basin",
+        "scale": {"scheme": "teals"}
+        },
+    "tooltip": [
+        {"field": "Basin", "type": "nominal", "title": "Basin"},
+        {"field": "Kph", "type": "quantitative", "title": "Kph"} 
+        ]
+      
+    }
+    
+  }
