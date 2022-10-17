@@ -27,7 +27,8 @@
         width: 100%;
     }
 
-    .description h2, h1 {
+    .description h2,
+    h1 {
         margin-top: 0px;
     }
 

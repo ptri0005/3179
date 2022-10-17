@@ -6,31 +6,20 @@
     },
     "params": [
         {
-            "name": "Year_Before",
+            "name": "Until",
             "value": 2021,
             "bind": {
                 "input": "range",
-                "min": 1900,
-                "max": 2021
-            }
-        },
-        {
-            "name": "Year_After",
-            "value": 1900,
-            "bind": {
-                "input": "range",
-                "min": 1900,
-                "max": 2021
+                "min": 1955,
+                "max": 2021,
+                "step": 1
             }
         }
     ],
     "width": "container",
     "transform": [
         {
-            "filter": "datum.Year > Year_After"
-        },
-        {
-            "filter": "datum.Year <= Year_Before"
+            "filter": "datum.Year <= Until"
         },
         {
             "bin": true,
@@ -71,7 +60,8 @@
                         "aggregate": "sum",
                         "field": "Total Deaths",
                         "type": "nominal",
-                        "title": "Total Deaths"
+                        "title": "Total Deaths",
+                        "format": ",.0f"
                     }
                 ]
             }

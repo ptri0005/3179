@@ -1,0 +1,136 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Earthquakes Around The World",
+    "width": 450,
+    "height": 300,
+    "projection": {
+        "type": "orthographic",
+        "rotate": {
+            "expr": "[Longitude, Latitude, 0]"
+        }
+    },
+    "params": [
+        {
+            "name": "Longitude",
+            "value": 30,
+            "bind": {
+                "input": "range",
+                "min": -180,
+                "max": 180,
+                "step": 1
+            }
+        },
+        {
+            "name": "Latitude",
+            "value": 0,
+            "bind": {
+                "input": "range",
+                "min": -90,
+                "max": 90,
+                "step": 1
+            }
+        },
+        {
+            "name": "MinMagnitude",
+            "value": 1.5,
+            "bind": {
+                "input": "range",
+                "min": 0,
+                "max": 6,
+                "step": 0.1
+            }
+        },
+        {
+            "name": "MaxMagnitude",
+            "value": 6,
+            "bind": {
+                "input": "range",
+                "min": 1,
+                "max": 6,
+                "step": 0.1
+            }
+        }
+    ],
+    "layer": [
+        {
+            "data": {
+                "sphere": true
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": "lightsteelblue"
+            }
+        },
+        {
+            "data": {
+                "name": "world",
+                "url": "data/world-110m.json",
+                "format": {
+                    "type": "topojson",
+                    "feature": "countries"
+                }
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": "mintcream",
+                "stroke": "black"
+            }
+        },
+        {
+            "data": {
+                "name": "earthquakes",
+                "url": "data/earthquakes_world_dat.json",
+                "format": {
+                    "type": "json",
+                    "property": "features"
+                }
+            },
+            "transform": [
+                {
+                    "calculate": "datum.geometry.coordinates[0]",
+                    "as": "longitude"
+                },
+                {
+                    "calculate": "datum.geometry.coordinates[1]",
+                    "as": "latitude"
+                },
+                {
+                    "filter": "(Longitude * -1) - 90 < datum.longitude && datum.longitude < (Longitude * -1) + 90 && (Latitude * -1) - 90 < datum.latitude && datum.latitude < (Latitude * -1) + 90"
+                },
+                {
+                    "calculate": "datum.properties.mag",
+                    "as": "magnitude"
+                },
+                {
+                    "filter": "datum.properties.mag >= MinMagnitude"
+                },
+                {
+                    "filter": "datum.properties.mag <= MaxMagnitude"
+                }
+            ],
+            "mark": {
+                "type": "circle",
+                "color": "red",
+                "opacity": 0.25,
+                "size": {
+                    "expr": "pow(5, 3)"
+                }
+            },
+            "encoding": {
+                "longitude": {
+                    "field": "longitude",
+                    "type": "quantitative"
+                },
+                "latitude": {
+                    "field": "latitude",
+                    "type": "quantitative"
+                },
+                "tooltip": [
+                    {
+                        "field": "magnitude"
+                    }
+                ]
+            }
+        }
+    ]
+}

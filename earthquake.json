@@ -2,36 +2,40 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Top 10 Recorded Earthquakes",
     "data": {
-      "url": "data/earthquakes.csv"
+        "url": "data/earthquakes.csv"
     },
-    "width":"container",
-      
+    "width": "container",
     "mark": "bar",
     "encoding": {
-  
-      
-      "x": {
-        "field": "Name",
-        "type": "nominal",
-        "title": "Earthquake",
-        "sort": "-y"
-      },
-      "y": {
-          "aggregate": "Max",
-        "field": "Magnitude",
-        "type": "quantitative",
-        "title": "Magnitude"
-      },
-      "color": {
-        "type": "nominal",
-        "field": "Country",
-        "scale": {"scheme": "browns"}
+        "x": {
+            "field": "Name",
+            "type": "nominal",
+            "title": "Earthquake",
+            "sort": "-y"
         },
-    "tooltip": [
-        {"field": "Country", "type": "nominal", "title": "Country"},
-        {"field": "Magnitude", "type": "quantitative"} 
+        "y": {
+            "aggregate": "Max",
+            "field": "Magnitude",
+            "type": "quantitative",
+            "title": "Magnitude"
+        },
+        "color": {
+            "type": "nominal",
+            "field": "Country",
+            "scale": {
+                "scheme": "tableau20"
+            }
+        },
+        "tooltip": [
+            {
+                "field": "Country",
+                "type": "nominal",
+                "title": "Country"
+            },
+            {
+                "field": "Magnitude",
+                "type": "quantitative"
+            }
         ]
-      
     }
-    
-  }
+}
